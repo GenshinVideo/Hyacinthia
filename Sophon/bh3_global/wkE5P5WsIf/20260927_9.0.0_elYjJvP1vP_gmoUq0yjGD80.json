@@ -1,0 +1,84 @@
+{
+  "retcode": 0,
+  "message": "OK",
+  "data": {
+    "build_id": "k63r0I2hlO5b",
+    "tag": "9.0.0",
+    "manifests": [
+      {
+        "category_id": "10173",
+        "category_name": "【新】【TW】游戏资源-外网",
+        "manifest": {
+          "id": "manifest_523e5db765004dc5_7c290281b55c5a6e5b58ca0f8b5d4c15",
+          "checksum": "7c290281b55c5a6e5b58ca0f8b5d4c15",
+          "compressed_size": "104481",
+          "uncompressed_size": "207801"
+        },
+        "chunk_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchasia.honkaiimpact3.com/ptpublic/rel/chunk/chunks/ely3gl46n56o/20260811/9.0.0/k63r0I2hlO5b",
+          "url_suffix": ""
+        },
+        "manifest_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchasia.honkaiimpact3.com/ptpublic/rel/chunk/manifests/ely3gl46n56o/20260811/9.0.0/k63r0I2hlO5b",
+          "url_suffix": ""
+        },
+        "matching_field": "game",
+        "stats": {
+          "compressed_size": "874746516",
+          "uncompressed_size": "1393674784",
+          "file_count": "270",
+          "chunk_count": "1289"
+        },
+        "deduplicated_stats": {
+          "compressed_size": "862800854",
+          "uncompressed_size": "1376428064",
+          "file_count": "270",
+          "chunk_count": "1275"
+        }
+      },
+      {
+        "category_id": "10178",
+        "category_name": "【TW】ASB-外网",
+        "manifest": {
+          "id": "manifest_4e398caf237a95a7_9f4f01cd3d4b2e78cd33640ff87a622a",
+          "checksum": "9f4f01cd3d4b2e78cd33640ff87a622a",
+          "compressed_size": "2285284",
+          "uncompressed_size": "4257224"
+        },
+        "chunk_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchasia.honkaiimpact3.com/ptpublic/rel/chunk/chunks/ely3gl46n56o/20260811/9.0.0/k63r0I2hlO5b",
+          "url_suffix": ""
+        },
+        "manifest_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchasia.honkaiimpact3.com/ptpublic/rel/chunk/manifests/ely3gl46n56o/20260811/9.0.0/k63r0I2hlO5b",
+          "url_suffix": ""
+        },
+        "matching_field": "asb",
+        "stats": {
+          "compressed_size": "30754297037",
+          "uncompressed_size": "33734980466",
+          "file_count": "799",
+          "chunk_count": "28776"
+        },
+        "deduplicated_stats": {
+          "compressed_size": "30733327738",
+          "uncompressed_size": "33713705909",
+          "file_count": "799",
+          "chunk_count": "28755"
+        }
+      }
+    ]
+  }
+}
