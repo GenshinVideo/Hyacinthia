@@ -1,0 +1,195 @@
+{
+  "retcode": 0,
+  "message": "OK",
+  "data": {
+    "build_id": "DGZ4nUM3n3yq",
+    "tag": "1.4.0",
+    "manifests": [
+      {
+        "category_id": "10037",
+        "category_name": "游戏资源-外网",
+        "manifest": {
+          "id": "manifest_aed49b102b23e4c4_8e1881557fcec7aa8bd972233fe360f4",
+          "checksum": "8e1881557fcec7aa8bd972233fe360f4",
+          "compressed_size": "5333919",
+          "uncompressed_size": "10332186"
+        },
+        "chunk_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchos.zenlesszonezero.com/pclauncher/chunks/cxi9qfgtcu0w/10037",
+          "url_suffix": ""
+        },
+        "manifest_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchos.zenlesszonezero.com/pclauncher/manifests/cxi9qfgtcu0w/10037",
+          "url_suffix": ""
+        },
+        "matching_field": "game",
+        "stats": {
+          "compressed_size": "64725414740",
+          "uncompressed_size": "70754427918",
+          "file_count": "9228",
+          "chunk_count": "64687"
+        },
+        "deduplicated_stats": {
+          "compressed_size": "64577952854",
+          "uncompressed_size": "70587000958",
+          "file_count": "9228",
+          "chunk_count": "64516"
+        }
+      },
+      {
+        "category_id": "10038",
+        "category_name": "语音包-中文-外网",
+        "manifest": {
+          "id": "manifest_1396c2a2d737fe8a_8eb330934f24a55b3fd2c0a0da780acd",
+          "checksum": "8eb330934f24a55b3fd2c0a0da780acd",
+          "compressed_size": "79642",
+          "uncompressed_size": "147917"
+        },
+        "chunk_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchos.zenlesszonezero.com/pclauncher/chunks/cxi9qfgtcu0w/10038",
+          "url_suffix": ""
+        },
+        "manifest_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchos.zenlesszonezero.com/pclauncher/manifests/cxi9qfgtcu0w/10038",
+          "url_suffix": ""
+        },
+        "matching_field": "zh-cn",
+        "stats": {
+          "compressed_size": "1167222775",
+          "uncompressed_size": "1172846863",
+          "file_count": "20",
+          "chunk_count": "1000"
+        },
+        "deduplicated_stats": {
+          "compressed_size": "1167222775",
+          "uncompressed_size": "1172846863",
+          "file_count": "20",
+          "chunk_count": "1000"
+        }
+      },
+      {
+        "category_id": "10039",
+        "category_name": "语音包-英文-外网",
+        "manifest": {
+          "id": "manifest_f53ae97a2bb36860_120ecfdced66bf1c28462d5741b8a196",
+          "checksum": "120ecfdced66bf1c28462d5741b8a196",
+          "compressed_size": "80859",
+          "uncompressed_size": "150020"
+        },
+        "chunk_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchos.zenlesszonezero.com/pclauncher/chunks/cxi9qfgtcu0w/10039",
+          "url_suffix": ""
+        },
+        "manifest_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchos.zenlesszonezero.com/pclauncher/manifests/cxi9qfgtcu0w/10039",
+          "url_suffix": ""
+        },
+        "matching_field": "en-us",
+        "stats": {
+          "compressed_size": "1194261242",
+          "uncompressed_size": "1200621892",
+          "file_count": "20",
+          "chunk_count": "1014"
+        },
+        "deduplicated_stats": {
+          "compressed_size": "1194261242",
+          "uncompressed_size": "1200621892",
+          "file_count": "20",
+          "chunk_count": "1014"
+        }
+      },
+      {
+        "category_id": "10040",
+        "category_name": "语音包-韩文-外网",
+        "manifest": {
+          "id": "manifest_659e08a8f76bb306_f3ee6b729874f34451d5d033565a0cc2",
+          "checksum": "f3ee6b729874f34451d5d033565a0cc2",
+          "compressed_size": "90903",
+          "uncompressed_size": "168515"
+        },
+        "chunk_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchos.zenlesszonezero.com/pclauncher/chunks/cxi9qfgtcu0w/10040",
+          "url_suffix": ""
+        },
+        "manifest_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchos.zenlesszonezero.com/pclauncher/manifests/cxi9qfgtcu0w/10040",
+          "url_suffix": ""
+        },
+        "matching_field": "ko-kr",
+        "stats": {
+          "compressed_size": "1344796139",
+          "uncompressed_size": "1350527314",
+          "file_count": "20",
+          "chunk_count": "1141"
+        },
+        "deduplicated_stats": {
+          "compressed_size": "1344796139",
+          "uncompressed_size": "1350527314",
+          "file_count": "20",
+          "chunk_count": "1141"
+        }
+      },
+      {
+        "category_id": "10041",
+        "category_name": "语音包-日文-外网",
+        "manifest": {
+          "id": "manifest_17e7ea0c7bb66930_3202dadd784658fd30150d5f6a367abf",
+          "checksum": "3202dadd784658fd30150d5f6a367abf",
+          "compressed_size": "99591",
+          "uncompressed_size": "184537"
+        },
+        "chunk_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchos.zenlesszonezero.com/pclauncher/chunks/cxi9qfgtcu0w/10041",
+          "url_suffix": ""
+        },
+        "manifest_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchos.zenlesszonezero.com/pclauncher/manifests/cxi9qfgtcu0w/10041",
+          "url_suffix": ""
+        },
+        "matching_field": "ja-jp",
+        "stats": {
+          "compressed_size": "1480793093",
+          "uncompressed_size": "1486567861",
+          "file_count": "20",
+          "chunk_count": "1251"
+        },
+        "deduplicated_stats": {
+          "compressed_size": "1480793093",
+          "uncompressed_size": "1486567861",
+          "file_count": "20",
+          "chunk_count": "1251"
+        }
+      }
+    ]
+  }
+}
