@@ -1,0 +1,47 @@
+{
+  "retcode": 0,
+  "message": "OK",
+  "data": {
+    "build_id": "ubd905kmgZUH",
+    "tag": "8.4.0",
+    "manifests": [
+      {
+        "category_id": "10152",
+        "category_name": "游戏资源-外网-东南亚",
+        "manifest": {
+          "id": "manifest_b5973960b682aac3_c0bea25c58095cf6260c642bc2e7f8f9",
+          "checksum": "c0bea25c58095cf6260c642bc2e7f8f9",
+          "compressed_size": "2154461",
+          "uncompressed_size": "4026936"
+        },
+        "chunk_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchos.honkaiimpact3.com/ptpublic/rel/chunk/chunks/ely3gl46n56o/ubd905kmgZUH",
+          "url_suffix": ""
+        },
+        "manifest_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchos.honkaiimpact3.com/ptpublic/rel/chunk/manifests/ely3gl46n56o/ubd905kmgZUH",
+          "url_suffix": ""
+        },
+        "matching_field": "game",
+        "stats": {
+          "compressed_size": "28480423066",
+          "uncompressed_size": "31728108842",
+          "file_count": "986",
+          "chunk_count": "27104"
+        },
+        "deduplicated_stats": {
+          "compressed_size": "28467284654",
+          "uncompressed_size": "31702811457",
+          "file_count": "986",
+          "chunk_count": "27083"
+        }
+      }
+    ]
+  }
+}
