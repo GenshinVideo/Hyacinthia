@@ -1,6 +1,30 @@
 {
   "Package": {
     "version": {
+      "v8.4.0": {
+        "url": "https://autopatchkr.honkaiimpact3.com/ptpublic/bh3_kr/20250813151443_oeiAwLxnYfiQX2vj/BH3_v8.4.0_705a20b7c1e5.7z",
+        "md5": "9af5c92f554b2412d6549f6a9799d473"
+      },
+      "v8.5.0": {
+        "url": "https://autopatchkr.honkaiimpact3.com/ptpublic/bh3_kr/20251014142325_Dwwngvt8Ql4Cs5cz/BH3_v8.5.0_48fc57c59793.7z",
+        "md5": "d2d46b96b2b47abb4d1754046a890688"
+      },
+      "v8.6.0": {
+        "url": "https://autopatchkr.honkaiimpact3.com/ptpublic/bh3_kr/20251223145823_S12JyelQqskSqD4z/BH3_v8.6.0_96dac6c2fcd9.7z",
+        "md5": "775b97d2223ef46a39ff429e231b1021"
+      },
+      "v8.7.0": {
+        "url": "https://autopatchkr.honkaiimpact3.com/ptpublic/bh3_kr/20260225183026_oeu6HqdQLopd9Nrw/BH3_v8.7.0_3cd541758856.7z",
+        "md5": "f77fd78fb68addd8fc7d05a849ec480b"
+      },
+      "v8.8.0": {
+        "url": "https://autopatchkr.honkaiimpact3.com/ptpublic/bh3_kr/20260421113050_xjzsIsJm2Wp2GTmE/BH3_v8.8.0_cec468aad479.7z",
+        "md5": "1f11d1e5c5663b00ca29128dea4b09e4"
+      },
+      "v8.9.0": {
+        "url": "https://autopatchkr.honkaiimpact3.com/ptpublic/bh3_kr/20260616120223_meUaau0D9ZZdfufj/BH3_v8.9.0_becb21cb288f.7z",
+        "md5": "caf969ba5c444c5fc203ea1feeefdd50"
+      },
       "v9.0.0": {
         "url": "https://autopatchkr.honkaiimpact3.com/ptpublic/bh3_kr/20260811105312_mi1FWQvQlV0Bxd0i/BH3_v9.0.0_e5ee16aeb146.7z",
         "md5": "07439acd8ed1b2e6c8343f73885e4047"

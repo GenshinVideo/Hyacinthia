@@ -1,6 +1,30 @@
 {
   "Package": {
     "version": {
+      "v8.4.0": {
+        "url": "https://autopatchasia.honkaiimpact3.com/ptpublic/bh3_tw/20250813151706_Nbbb2RE78vUhqP13/BH3_v8.4.0_705a20b7c1e5.7z",
+        "md5": "7b7d9b9701241ccfc8bef5c7b9fbe234"
+      },
+      "v8.5.0": {
+        "url": "https://autopatchasia.honkaiimpact3.com/ptpublic/bh3_tw/20251014142415_mj8zIyMGSXbSJ38v/BH3_v8.5.0_48fc57c59793.7z",
+        "md5": "14be258a7f2f55d9987c14e28e982d64"
+      },
+      "v8.6.0": {
+        "url": "https://autopatchasia.honkaiimpact3.com/ptpublic/bh3_tw/20251223145940_7eJqh9iB7WHUalfa/BH3_v8.6.0_96dac6c2fcd9.7z",
+        "md5": "e288e34a06d7bff934b4be57c1ed0535"
+      },
+      "v8.7.0": {
+        "url": "https://autopatchasia.honkaiimpact3.com/ptpublic/bh3_tw/20260225190420_ZLttniwfw2GusDsb/BH3_v8.7.0_3cd541758856.7z",
+        "md5": "17eec0f6a606bc0b406e38a0a18ae27d"
+      },
+      "v8.8.0": {
+        "url": "https://autopatchasia.honkaiimpact3.com/ptpublic/bh3_tw/20260421112917_VhXIQT5ZXmwVqRu2/BH3_v8.8.0_cec468aad479.7z",
+        "md5": "4d80904b4470d4693762d1e3ffb60832"
+      },
+      "v8.9.0": {
+        "url": "https://autopatchasia.honkaiimpact3.com/ptpublic/bh3_tw/20260616115737_CyG0wp8FzFMrntXe/BH3_v8.9.0_becb21cb288f.7z",
+        "md5": "a52b86af73e1ec165723ae108fd80b64"
+      },
       "v9.0.0": {
         "url": "https://autopatchasia.honkaiimpact3.com/ptpublic/bh3_tw/20260811105213_n9TvC6Okw5qlqAms/BH3_v9.0.0_e5ee16aeb146.7z",
         "md5": "63c33b722976e16ba1f2da4997f99284"
