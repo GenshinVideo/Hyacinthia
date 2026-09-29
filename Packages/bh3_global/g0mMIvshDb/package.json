@@ -1,0 +1,37 @@
+{
+  "Package": {
+    "version": {
+      "v9.0.0": {
+        "url": "https://autopatchjp.honkaiimpact3.com/ptpublic/bh3_jp/20260811162808_dleVQQBFDXkHhkqM/BH3_v9.0.0_e5ee16aeb146.7z",
+        "md5": "eb94602d48208aacf4da8e29be14353d"
+      }
+    }
+  },
+  "VoicePack_Japanese": {
+    "version": {}
+  },
+  "VoicePack_English": {
+    "version": {}
+  },
+  "VoicePack_Chinese": {
+    "version": {}
+  },
+  "VoicePack_Korean": {
+    "version": {}
+  },
+  "PackageDiff": {
+    "version": {}
+  },
+  "VoicePackDiff_Japanese": {
+    "version": {}
+  },
+  "VoicePackDiff_English": {
+    "version": {}
+  },
+  "VoicePackDiff_Chinese": {
+    "version": {}
+  },
+  "VoicePackDiff_Korean": {
+    "version": {}
+  }
+}
