@@ -1,6 +1,926 @@
 {
   "Package": {
     "version": {
+      "v1.0.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240620034137_JFSHEke77soszWYL/volumezip/ZenlessZoneZero_1.0.0_V.zip.001",
+            "md5": ""
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240620034137_JFSHEke77soszWYL/volumezip/ZenlessZoneZero_1.0.0_V.zip.002",
+            "md5": ""
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240620034137_JFSHEke77soszWYL/volumezip/ZenlessZoneZero_1.0.0_V.zip.003",
+            "md5": ""
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240620034137_JFSHEke77soszWYL/volumezip/ZenlessZoneZero_1.0.0_V.zip.004",
+            "md5": ""
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240620034137_JFSHEke77soszWYL/volumezip/ZenlessZoneZero_1.0.0_V.zip.005",
+            "md5": ""
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240620034137_JFSHEke77soszWYL/volumezip/ZenlessZoneZero_1.0.0_V.zip.006",
+            "md5": ""
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240620034137_JFSHEke77soszWYL/volumezip/ZenlessZoneZero_1.0.0_V.zip.007",
+            "md5": ""
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240620034137_JFSHEke77soszWYL/volumezip/ZenlessZoneZero_1.0.0_V.zip.008",
+            "md5": ""
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240620034137_JFSHEke77soszWYL/volumezip/ZenlessZoneZero_1.0.0_V.zip.009",
+            "md5": ""
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240620034137_JFSHEke77soszWYL/volumezip/ZenlessZoneZero_1.0.0_V.zip.010",
+            "md5": ""
+          }
+        ]
+      },
+      "v1.0.1": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240705172854_AtlPxrNABnzrUyln/volumezip/ZenlessZoneZero_1.0.0_V_v2.zip.001",
+            "md5": "5558937046E6EA64179439A689DF7EC0"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240705172854_AtlPxrNABnzrUyln/volumezip/ZenlessZoneZero_1.0.0_V_v2.zip.002",
+            "md5": "9C64C837F96E12EA12DCD9BAA8E6E973"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240705172854_AtlPxrNABnzrUyln/volumezip/ZenlessZoneZero_1.0.0_V_v2.zip.003",
+            "md5": "13DFDA6D40720111049FEB6570A99583"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240705172854_AtlPxrNABnzrUyln/volumezip/ZenlessZoneZero_1.0.0_V_v2.zip.004",
+            "md5": "5FDF830E3AC83E3FEAFB7601C5FF8C37"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240705172854_AtlPxrNABnzrUyln/volumezip/ZenlessZoneZero_1.0.0_V_v2.zip.005",
+            "md5": "19C7EAAA25EE82392ACEE8A69B6E075E"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240705172854_AtlPxrNABnzrUyln/volumezip/ZenlessZoneZero_1.0.0_V_v2.zip.006",
+            "md5": "9411710721D6AFEAA5DA6E465A7E33E1"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240705172854_AtlPxrNABnzrUyln/volumezip/ZenlessZoneZero_1.0.0_V_v2.zip.007",
+            "md5": "039AA41BA6A101EF089F899A20B21C10"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240705172854_AtlPxrNABnzrUyln/volumezip/ZenlessZoneZero_1.0.0_V_v2.zip.008",
+            "md5": "F742A3A723FFE6A5D41E16DBAF26E1B8"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240705172854_AtlPxrNABnzrUyln/volumezip/ZenlessZoneZero_1.0.0_V_v2.zip.009",
+            "md5": "3D826023A019EC8850B30BE13C7220A8"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240705172854_AtlPxrNABnzrUyln/volumezip/ZenlessZoneZero_1.0.0_V_v2.zip.010",
+            "md5": "F0242E1814367C131D44AA38FB2A2EF1"
+          }
+        ]
+      },
+      "v1.1.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240803155052_sLuZ7jKzX1U3OMad/VolumeZip/ZenlessZoneZero_1.1.0_AS.zip.001",
+            "md5": "82CE7BDB0A907879BF38E21E5BD78BB9"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240803155052_sLuZ7jKzX1U3OMad/VolumeZip/ZenlessZoneZero_1.1.0_AS.zip.002",
+            "md5": "74C0852B988C912034CC5C88BC362AA2"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240803155052_sLuZ7jKzX1U3OMad/VolumeZip/ZenlessZoneZero_1.1.0_AS.zip.003",
+            "md5": "D569425780A3E06DACC55262AE8B9A1F"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240803155052_sLuZ7jKzX1U3OMad/VolumeZip/ZenlessZoneZero_1.1.0_AS.zip.004",
+            "md5": "9F6AD5A403D490C3C4C95B803CFE8FF0"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240803155052_sLuZ7jKzX1U3OMad/VolumeZip/ZenlessZoneZero_1.1.0_AS.zip.005",
+            "md5": "0065074955EA58C3D7DC2033B6EEA508"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240803155052_sLuZ7jKzX1U3OMad/VolumeZip/ZenlessZoneZero_1.1.0_AS.zip.006",
+            "md5": "4914E32DAFA59585430749026AD09C31"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240803155052_sLuZ7jKzX1U3OMad/VolumeZip/ZenlessZoneZero_1.1.0_AS.zip.007",
+            "md5": "E638CA0226D1A503010683EB11E68C83"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240803155052_sLuZ7jKzX1U3OMad/VolumeZip/ZenlessZoneZero_1.1.0_AS.zip.008",
+            "md5": "1A99B3B860EAA14F9F4A5219EA7C7984"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240803155052_sLuZ7jKzX1U3OMad/VolumeZip/ZenlessZoneZero_1.1.0_AS.zip.009",
+            "md5": "C7A5E664C1F659790D0B3977637AB7DF"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240803155052_sLuZ7jKzX1U3OMad/VolumeZip/ZenlessZoneZero_1.1.0_AS.zip.010",
+            "md5": "E2FDEBCE0F5226F42C16182A4D5ECB3C"
+          }
+        ]
+      },
+      "v1.2.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240911153414_Az4jbyWkbTy02mXb/VolumeZip/ZenlessZoneZero_1.2.0_AS.zip.001",
+            "md5": "339968E5E773D5C77DECEABBD9A3CEEB"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240911153414_Az4jbyWkbTy02mXb/VolumeZip/ZenlessZoneZero_1.2.0_AS.zip.002",
+            "md5": "94D970741DF987AFBBDCA29345A596B5"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240911153414_Az4jbyWkbTy02mXb/VolumeZip/ZenlessZoneZero_1.2.0_AS.zip.003",
+            "md5": "CD8842477DD3F37C3B8AC069036E534E"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240911153414_Az4jbyWkbTy02mXb/VolumeZip/ZenlessZoneZero_1.2.0_AS.zip.004",
+            "md5": "F23D391B3064E0281B8DBBFF733C4B6A"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240911153414_Az4jbyWkbTy02mXb/VolumeZip/ZenlessZoneZero_1.2.0_AS.zip.005",
+            "md5": "00EDABC3565AECC8E4530D920772AC98"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240911153414_Az4jbyWkbTy02mXb/VolumeZip/ZenlessZoneZero_1.2.0_AS.zip.006",
+            "md5": "7CE14F2D320995557DF9CE611EB67143"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240911153414_Az4jbyWkbTy02mXb/VolumeZip/ZenlessZoneZero_1.2.0_AS.zip.007",
+            "md5": "0FB73299DA6DCD6C65579492FB362324"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240911153414_Az4jbyWkbTy02mXb/VolumeZip/ZenlessZoneZero_1.2.0_AS.zip.008",
+            "md5": "C618D09248B01D37DB24996F5F7923E5"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240911153414_Az4jbyWkbTy02mXb/VolumeZip/ZenlessZoneZero_1.2.0_AS.zip.009",
+            "md5": "7C30C5849B879D3D38DAF292AA4D2B62"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240911153414_Az4jbyWkbTy02mXb/VolumeZip/ZenlessZoneZero_1.2.0_AS.zip.010",
+            "md5": "AF8404BDE82E34832D918FBA26EE0592"
+          }
+        ]
+      },
+      "v1.3.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241025143744_v9hu0vrVKxeg51NA/VolumeZip/ZenlessZoneZero_1.3.0_AS_DLL.zip.001",
+            "md5": "5D5B10197EA8BAD5EF39A62B9ED8C142"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241025143744_v9hu0vrVKxeg51NA/VolumeZip/ZenlessZoneZero_1.3.0_AS_DLL.zip.002",
+            "md5": "19929763143DCD1F5727917281249F40"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241025143744_v9hu0vrVKxeg51NA/VolumeZip/ZenlessZoneZero_1.3.0_AS_DLL.zip.003",
+            "md5": "B1308034808D5725F5F577379E745C9D"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241025143744_v9hu0vrVKxeg51NA/VolumeZip/ZenlessZoneZero_1.3.0_AS_DLL.zip.004",
+            "md5": "E44A50F666FD5063034E7E9A3B5BE2E0"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241025143744_v9hu0vrVKxeg51NA/VolumeZip/ZenlessZoneZero_1.3.0_AS_DLL.zip.005",
+            "md5": "BB2DB87CF8735DB7664184EF364EE7E8"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241025143744_v9hu0vrVKxeg51NA/VolumeZip/ZenlessZoneZero_1.3.0_AS_DLL.zip.006",
+            "md5": "6E7DD0B4150803C9818B18EFCDCFFF3D"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241025143744_v9hu0vrVKxeg51NA/VolumeZip/ZenlessZoneZero_1.3.0_AS_DLL.zip.007",
+            "md5": "06C2CE9E980DB955284670FADC2EAFA6"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241025143744_v9hu0vrVKxeg51NA/VolumeZip/ZenlessZoneZero_1.3.0_AS_DLL.zip.008",
+            "md5": "BE812201FBE0492B59F27D01ADB1AF5E"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241025143744_v9hu0vrVKxeg51NA/VolumeZip/ZenlessZoneZero_1.3.0_AS_DLL.zip.009",
+            "md5": "E2374D37F3FD3A3A675B7228D6C95C55"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241025143744_v9hu0vrVKxeg51NA/VolumeZip/ZenlessZoneZero_1.3.0_AS_DLL.zip.010",
+            "md5": "95DA99265C641AF2E38CF4F00B6EC746"
+          }
+        ]
+      },
+      "v1.4.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241206114419_kWogAAe0eGLTIgIF/VolumeZip/ZenlessZoneZero_1.4.0_AS.zip.001",
+            "md5": "01C719391469345959CAE4FB1D086D69"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241206114419_kWogAAe0eGLTIgIF/VolumeZip/ZenlessZoneZero_1.4.0_AS.zip.002",
+            "md5": "53D90AC017557C608B25271C1A82A94F"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241206114419_kWogAAe0eGLTIgIF/VolumeZip/ZenlessZoneZero_1.4.0_AS.zip.003",
+            "md5": "212FF656A86944F466AFA884D32C30A3"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241206114419_kWogAAe0eGLTIgIF/VolumeZip/ZenlessZoneZero_1.4.0_AS.zip.004",
+            "md5": "C46B62E6E57EEF197DAD17E24AFA79CD"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241206114419_kWogAAe0eGLTIgIF/VolumeZip/ZenlessZoneZero_1.4.0_AS.zip.005",
+            "md5": "B2DC465DC748789B0A4F0C1A971D2236"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241206114419_kWogAAe0eGLTIgIF/VolumeZip/ZenlessZoneZero_1.4.0_AS.zip.006",
+            "md5": "0B2D323568A282A9C78EEB0018BF0BF7"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241206114419_kWogAAe0eGLTIgIF/VolumeZip/ZenlessZoneZero_1.4.0_AS.zip.007",
+            "md5": "854430903095CF300A2C1420B518F6E3"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241206114419_kWogAAe0eGLTIgIF/VolumeZip/ZenlessZoneZero_1.4.0_AS.zip.008",
+            "md5": "212E73450D7480579DA8936D4ADA19D5"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241206114419_kWogAAe0eGLTIgIF/VolumeZip/ZenlessZoneZero_1.4.0_AS.zip.009",
+            "md5": "B601587F82B110581FB93D199E088364"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241206114419_kWogAAe0eGLTIgIF/VolumeZip/ZenlessZoneZero_1.4.0_AS.zip.010",
+            "md5": "B2A6E8C6682CC2F77ACEF2A3EFDE5630"
+          }
+        ]
+      },
+      "v1.5.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250108124806_g97lIWR8kCKdhHRd/VolumeZip/ZenlessZoneZero_1.5.0_AS.zip.001",
+            "md5": "2F5201E3DE1BECB9BD695EFE52F2A897"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250108124806_g97lIWR8kCKdhHRd/VolumeZip/ZenlessZoneZero_1.5.0_AS.zip.002",
+            "md5": "D027449DADCA792B6F1FA84396008776"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250108124806_g97lIWR8kCKdhHRd/VolumeZip/ZenlessZoneZero_1.5.0_AS.zip.003",
+            "md5": "DE3842578B7FA0D4E5D3BC65EC1B4C54"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250108124806_g97lIWR8kCKdhHRd/VolumeZip/ZenlessZoneZero_1.5.0_AS.zip.004",
+            "md5": "7651AB8EE51F6ED1F192D2E8A733EC38"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250108124806_g97lIWR8kCKdhHRd/VolumeZip/ZenlessZoneZero_1.5.0_AS.zip.005",
+            "md5": "DA336A5D969D4987B5FE5235A7B4D391"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250108124806_g97lIWR8kCKdhHRd/VolumeZip/ZenlessZoneZero_1.5.0_AS.zip.006",
+            "md5": "16E3614F10FBD69AC4AC218B05A31936"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250108124806_g97lIWR8kCKdhHRd/VolumeZip/ZenlessZoneZero_1.5.0_AS.zip.007",
+            "md5": "6A009F3B172941FD3819F4978B87C633"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250108124806_g97lIWR8kCKdhHRd/VolumeZip/ZenlessZoneZero_1.5.0_AS.zip.008",
+            "md5": "E2C19F3939B0D931CA7AD5E6EDF0AA7A"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250108124806_g97lIWR8kCKdhHRd/VolumeZip/ZenlessZoneZero_1.5.0_AS.zip.009",
+            "md5": "CE9B12C75C1DBAC021600A62A6C438E4"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250108124806_g97lIWR8kCKdhHRd/VolumeZip/ZenlessZoneZero_1.5.0_AS.zip.010",
+            "md5": "BED68E1A05F2A236D22C1A15F1B99B3F"
+          }
+        ]
+      },
+      "v1.6.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250302131501_XPL3MbP0GgnuJoHq/VolumeZip/ZenlessZoneZero_1.6.0_AS.zip.001",
+            "md5": "E9FC5E85AFD59C367D141AB894A78BD0"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250302131501_XPL3MbP0GgnuJoHq/VolumeZip/ZenlessZoneZero_1.6.0_AS.zip.002",
+            "md5": "E3AF275D1CFC7368508D20BC13C62D58"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250302131501_XPL3MbP0GgnuJoHq/VolumeZip/ZenlessZoneZero_1.6.0_AS.zip.003",
+            "md5": "B71FC4102FF5B350AA0215BFF6F312C3"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250302131501_XPL3MbP0GgnuJoHq/VolumeZip/ZenlessZoneZero_1.6.0_AS.zip.004",
+            "md5": "8FB0C103772EB22295FB41E0C6853A1F"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250302131501_XPL3MbP0GgnuJoHq/VolumeZip/ZenlessZoneZero_1.6.0_AS.zip.005",
+            "md5": "61E20AD7D6FCAA8CC84946B0082AED02"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250302131501_XPL3MbP0GgnuJoHq/VolumeZip/ZenlessZoneZero_1.6.0_AS.zip.006",
+            "md5": "A0A37E69C27EC4660C96C0492CAB7519"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250302131501_XPL3MbP0GgnuJoHq/VolumeZip/ZenlessZoneZero_1.6.0_AS.zip.007",
+            "md5": "8B8FE8181CC687AC314115F02E814BDC"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250302131501_XPL3MbP0GgnuJoHq/VolumeZip/ZenlessZoneZero_1.6.0_AS.zip.008",
+            "md5": "3EE86F68C4BABDAB77C39650AC3B0301"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250302131501_XPL3MbP0GgnuJoHq/VolumeZip/ZenlessZoneZero_1.6.0_AS.zip.009",
+            "md5": "9200369F9A4573A5DDF4E11CAC5BE1A5"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250302131501_XPL3MbP0GgnuJoHq/VolumeZip/ZenlessZoneZero_1.6.0_AS.zip.010",
+            "md5": "5A9AF6BC708949715C20DA3812A59508"
+          }
+        ]
+      },
+      "v1.7.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/VolumeZip/ZenlessZoneZero_1.7.0_AS.zip.001",
+            "md5": "7660AE62836BE38642A131F606383654"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/VolumeZip/ZenlessZoneZero_1.7.0_AS.zip.002",
+            "md5": "CB015A09366B03D517F10236D3858850"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/VolumeZip/ZenlessZoneZero_1.7.0_AS.zip.003",
+            "md5": "53EEB43A8C8221701DA6C5BEC8BFD6D3"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/VolumeZip/ZenlessZoneZero_1.7.0_AS.zip.004",
+            "md5": "63309EF13E010260C04A747FA0ECBAA1"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/VolumeZip/ZenlessZoneZero_1.7.0_AS.zip.005",
+            "md5": "F52E55DF9F1ED8B8439129F835312077"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/VolumeZip/ZenlessZoneZero_1.7.0_AS.zip.006",
+            "md5": "671E9C4C9642BED31D22D58431784511"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/VolumeZip/ZenlessZoneZero_1.7.0_AS.zip.007",
+            "md5": "AAE6CF2E22755706C8EED3336AFE9C0E"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/VolumeZip/ZenlessZoneZero_1.7.0_AS.zip.008",
+            "md5": "1CF4D0F998AC65B7896D4206F82C9E7A"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/VolumeZip/ZenlessZoneZero_1.7.0_AS.zip.009",
+            "md5": "30B587D6838C49B91FF24AEDACFB5FC6"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/VolumeZip/ZenlessZoneZero_1.7.0_AS.zip.010",
+            "md5": "A5E8D4A4297B48A872194A87648253D4"
+          }
+        ]
+      },
+      "v2.0.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250520141953_yFXABptAOW2p67Sp/VolumeZip/ZenlessZoneZero_2.0.0_AS.zip.001",
+            "md5": "57AB8B65BAF1E8783E5C101439FDA68D"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250520141953_yFXABptAOW2p67Sp/VolumeZip/ZenlessZoneZero_2.0.0_AS.zip.002",
+            "md5": "886B013471C1112119EC92705D72CF03"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250520141953_yFXABptAOW2p67Sp/VolumeZip/ZenlessZoneZero_2.0.0_AS.zip.003",
+            "md5": "F3744991626A850DF3E1B871F26C7921"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250520141953_yFXABptAOW2p67Sp/VolumeZip/ZenlessZoneZero_2.0.0_AS.zip.004",
+            "md5": "8AC905C9A623018173DE61B1A054DE48"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250520141953_yFXABptAOW2p67Sp/VolumeZip/ZenlessZoneZero_2.0.0_AS.zip.005",
+            "md5": "DBEB473D6447FFB0089D6FAA7DBD6A01"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250520141953_yFXABptAOW2p67Sp/VolumeZip/ZenlessZoneZero_2.0.0_AS.zip.006",
+            "md5": "0FBBFF056EA466CB781CF6A8363B939A"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250520141953_yFXABptAOW2p67Sp/VolumeZip/ZenlessZoneZero_2.0.0_AS.zip.007",
+            "md5": "89C954B82FAA42FD1A7AB88B38E5BCC6"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250520141953_yFXABptAOW2p67Sp/VolumeZip/ZenlessZoneZero_2.0.0_AS.zip.008",
+            "md5": "C28581FECE030AAA1B4ED39577198570"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250520141953_yFXABptAOW2p67Sp/VolumeZip/ZenlessZoneZero_2.0.0_AS.zip.009",
+            "md5": "1116E53CB6203E33ABEB7AD78334F381"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250520141953_yFXABptAOW2p67Sp/VolumeZip/ZenlessZoneZero_2.0.0_AS.zip.010",
+            "md5": "7D6C94A1B2BBBEDCA01828B054AF4943"
+          }
+        ]
+      },
+      "v2.1.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.001",
+            "md5": "150FD0708F6B0DA724F4790E17C2D228"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.002",
+            "md5": "DDC4903CA1120D5BA9D6EA528D5CA4D5"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.003",
+            "md5": "C7583AAA03FF2BCF9B640E0C14D1F8FE"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.004",
+            "md5": "52560828E9B6ABF53F6550D431884237"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.005",
+            "md5": "4A6176E5026C18CDFD3022933E27991C"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.006",
+            "md5": "178E4FC6A3A9356794A8A73912AF2D51"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.007",
+            "md5": "8B6E0240667DBAE90A272D1DA4B1C3D9"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.008",
+            "md5": "82F40938E54EF584C9659CD258FC1121"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.009",
+            "md5": "DDF80906BC9E96074213F4A32A80807B"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.010",
+            "md5": "44ED597E490050FA0A6F1D6A13686686"
+          }
+        ]
+      },
+      "v2.2.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250812104632_XK2WSVcQEMVH4Fot/VolumeZip/ZenlessZoneZero_2.2.0_AS.zip.001",
+            "md5": "C594D3F316C552A3FD00C704A4B875D8"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250812104632_XK2WSVcQEMVH4Fot/VolumeZip/ZenlessZoneZero_2.2.0_AS.zip.002",
+            "md5": "9A7A1D8AFEEC53FEAD0A61681B5156FA"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250812104632_XK2WSVcQEMVH4Fot/VolumeZip/ZenlessZoneZero_2.2.0_AS.zip.003",
+            "md5": "33AF56E69AF8153AF2D584135FF8EF85"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250812104632_XK2WSVcQEMVH4Fot/VolumeZip/ZenlessZoneZero_2.2.0_AS.zip.004",
+            "md5": "7B4221D03562B3ABCE6360D89C7C2CCB"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250812104632_XK2WSVcQEMVH4Fot/VolumeZip/ZenlessZoneZero_2.2.0_AS.zip.005",
+            "md5": "D75C98BB24A896BBA5B9BDCCDA33B41B"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250812104632_XK2WSVcQEMVH4Fot/VolumeZip/ZenlessZoneZero_2.2.0_AS.zip.006",
+            "md5": "7418B317906813D655E455A76436D9C6"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250812104632_XK2WSVcQEMVH4Fot/VolumeZip/ZenlessZoneZero_2.2.0_AS.zip.007",
+            "md5": "7292023F470E84D13D4BE954D242AB6D"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250812104632_XK2WSVcQEMVH4Fot/VolumeZip/ZenlessZoneZero_2.2.0_AS.zip.008",
+            "md5": "51E4A12376553493C1108E2069DFF910"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250812104632_XK2WSVcQEMVH4Fot/VolumeZip/ZenlessZoneZero_2.2.0_AS.zip.009",
+            "md5": "B3B39A30A37DCEB7A122315D4F9BAA56"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250812104632_XK2WSVcQEMVH4Fot/VolumeZip/ZenlessZoneZero_2.2.0_AS.zip.010",
+            "md5": "D13AC87E520B11BF577DF6937CB890D4"
+          }
+        ]
+      },
+      "v2.3.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250924105839_5lJoXvmzYoVsmDU1/VolumeZip/ZenlessZoneZero_2.3.0_AS.zip.001",
+            "md5": "218F356BDEA196822DD2ED1DB03F021A"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250924105839_5lJoXvmzYoVsmDU1/VolumeZip/ZenlessZoneZero_2.3.0_AS.zip.002",
+            "md5": "FB2EAAEE60AAFE767807665320E8C42D"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250924105839_5lJoXvmzYoVsmDU1/VolumeZip/ZenlessZoneZero_2.3.0_AS.zip.003",
+            "md5": "AA45892ABE620F0F616F7F34F47C5070"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250924105839_5lJoXvmzYoVsmDU1/VolumeZip/ZenlessZoneZero_2.3.0_AS.zip.004",
+            "md5": "1471E973179AF73B2A31B5182631CA0A"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250924105839_5lJoXvmzYoVsmDU1/VolumeZip/ZenlessZoneZero_2.3.0_AS.zip.005",
+            "md5": "7810949CFA676E2B2C869696A8EA7068"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250924105839_5lJoXvmzYoVsmDU1/VolumeZip/ZenlessZoneZero_2.3.0_AS.zip.006",
+            "md5": "72DEEDCEBA3B11B028ED6A546E54895E"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250924105839_5lJoXvmzYoVsmDU1/VolumeZip/ZenlessZoneZero_2.3.0_AS.zip.007",
+            "md5": "FC43FB28CB36A5C32C1FD56F51404112"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250924105839_5lJoXvmzYoVsmDU1/VolumeZip/ZenlessZoneZero_2.3.0_AS.zip.008",
+            "md5": "7C70AC7586A531805B17AFBAAAAE7E6C"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250924105839_5lJoXvmzYoVsmDU1/VolumeZip/ZenlessZoneZero_2.3.0_AS.zip.009",
+            "md5": "899575D2E373B8F524F02D1BA7C573D4"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250924105839_5lJoXvmzYoVsmDU1/VolumeZip/ZenlessZoneZero_2.3.0_AS.zip.010",
+            "md5": "5111EEC8A5BFB98779938A7D5FFB9CAA"
+          }
+        ]
+      },
+      "v2.4.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251104120052_6N45s97qrNRK9OVC/VolumeZip/ZenlessZoneZero_2.4.0_AS.zip.001",
+            "md5": "135D20979DC4B5E78129CF8A5C7F5E06"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251104120052_6N45s97qrNRK9OVC/VolumeZip/ZenlessZoneZero_2.4.0_AS.zip.002",
+            "md5": "E2AB9813DC72C36100805D09073C6F57"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251104120052_6N45s97qrNRK9OVC/VolumeZip/ZenlessZoneZero_2.4.0_AS.zip.003",
+            "md5": "DC583622CF5B32E9927620BC57156EA2"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251104120052_6N45s97qrNRK9OVC/VolumeZip/ZenlessZoneZero_2.4.0_AS.zip.004",
+            "md5": "2C03D69982827C7E768360B902F8BD94"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251104120052_6N45s97qrNRK9OVC/VolumeZip/ZenlessZoneZero_2.4.0_AS.zip.005",
+            "md5": "8C8461C3D5C24BE66B6BC9C32C01FE86"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251104120052_6N45s97qrNRK9OVC/VolumeZip/ZenlessZoneZero_2.4.0_AS.zip.006",
+            "md5": "557C046BF963509389BC1551B1F339D7"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251104120052_6N45s97qrNRK9OVC/VolumeZip/ZenlessZoneZero_2.4.0_AS.zip.007",
+            "md5": "0DDA7A764A6CBCB31060365800BC1487"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251104120052_6N45s97qrNRK9OVC/VolumeZip/ZenlessZoneZero_2.4.0_AS.zip.008",
+            "md5": "977478648B52FDC990FF450FCE9F665D"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251104120052_6N45s97qrNRK9OVC/VolumeZip/ZenlessZoneZero_2.4.0_AS.zip.009",
+            "md5": "5B5F40FD661FC0D03977E4080EE42B74"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251104120052_6N45s97qrNRK9OVC/VolumeZip/ZenlessZoneZero_2.4.0_AS.zip.010",
+            "md5": "0667430C8B836F9A3551B9513A13A895"
+          }
+        ]
+      },
+      "v2.5.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.001",
+            "md5": "C4DA0C5ADCF527A4E115859FEEE138A8"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.002",
+            "md5": "E3A772878D58C3FC2D523D437E7C97DE"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.003",
+            "md5": "B3509ED6010C3B545325F4B9290CAB1E"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.004",
+            "md5": "3EDE5BB8BAAF1EA7132EFD3B60EFD918"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.005",
+            "md5": "8DE0673ABB0DFBD3D236AA91B2B9A790"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.006",
+            "md5": "45FCE141FACE18E95417A6E1B92E6AD3"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.007",
+            "md5": "172C96E7C27C401F9513D28DF1739BC1"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.008",
+            "md5": "B25578C0A5E12741776E3563125C70E7"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.009",
+            "md5": "1D8F985207D60EC973B42B3A47ECFF09"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.010",
+            "md5": "C333B01EF8CF8C20D6C96CADBE6A9BD0"
+          }
+        ]
+      },
+      "v2.6.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/VolumeZip/ZenlessZoneZero_2.6.0_AS.zip.001",
+            "md5": "094B272A00F277AF2799AAAE1142A429"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/VolumeZip/ZenlessZoneZero_2.6.0_AS.zip.002",
+            "md5": "D41AF2454DE490FD5419C4EE67D21465"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/VolumeZip/ZenlessZoneZero_2.6.0_AS.zip.003",
+            "md5": "2F3BBF035A917DCC85E757923ADB5CBF"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/VolumeZip/ZenlessZoneZero_2.6.0_AS.zip.004",
+            "md5": "7375FD399BCF3570E399732AE3358051"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/VolumeZip/ZenlessZoneZero_2.6.0_AS.zip.005",
+            "md5": "2059B08A86A39819C207D568A877C17E"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/VolumeZip/ZenlessZoneZero_2.6.0_AS.zip.006",
+            "md5": "56E831885AB6F18D39681F5865C2E4CC"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/VolumeZip/ZenlessZoneZero_2.6.0_AS.zip.007",
+            "md5": "F254776438937EE3D049DA00E314D64B"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/VolumeZip/ZenlessZoneZero_2.6.0_AS.zip.008",
+            "md5": "224A2D956A2BCEE530DA05A5F8AFD538"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/VolumeZip/ZenlessZoneZero_2.6.0_AS.zip.009",
+            "md5": "F7E3189EF8979E8FF4E170D5750CDE27"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/VolumeZip/ZenlessZoneZero_2.6.0_AS.zip.010",
+            "md5": "1B7364587B652DBE6DF2E7863B9B16F3"
+          }
+        ]
+      },
+      "v2.7.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260309110439_llbyoA8QnJfwoVf2/VolumeZip/ZenlessZoneZero_2.7.0_AS.zip.001",
+            "md5": "A0813E509A6D5A508EAE6C623868F488"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260309110439_llbyoA8QnJfwoVf2/VolumeZip/ZenlessZoneZero_2.7.0_AS.zip.002",
+            "md5": "DADF9F5185DEEC0FC5C99CC55965CE40"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260309110439_llbyoA8QnJfwoVf2/VolumeZip/ZenlessZoneZero_2.7.0_AS.zip.003",
+            "md5": "A06A7715916468E16F3289BAF89C688F"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260309110439_llbyoA8QnJfwoVf2/VolumeZip/ZenlessZoneZero_2.7.0_AS.zip.004",
+            "md5": "614BF67205E5FF0AB26A307CB2B588D8"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260309110439_llbyoA8QnJfwoVf2/VolumeZip/ZenlessZoneZero_2.7.0_AS.zip.005",
+            "md5": "11A972C4B3676781A6AA106135448C67"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260309110439_llbyoA8QnJfwoVf2/VolumeZip/ZenlessZoneZero_2.7.0_AS.zip.006",
+            "md5": "EE7821814E8B37DE51D8B5829E61AD00"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260309110439_llbyoA8QnJfwoVf2/VolumeZip/ZenlessZoneZero_2.7.0_AS.zip.007",
+            "md5": "6DD3F25F60D26C3DE792619E1EC0A061"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260309110439_llbyoA8QnJfwoVf2/VolumeZip/ZenlessZoneZero_2.7.0_AS.zip.008",
+            "md5": "5311E05DAF4DEA08D65FAB0F2641811D"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260309110439_llbyoA8QnJfwoVf2/VolumeZip/ZenlessZoneZero_2.7.0_AS.zip.009",
+            "md5": "D22FF649613168B1604398FA9362A0CD"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260309110439_llbyoA8QnJfwoVf2/VolumeZip/ZenlessZoneZero_2.7.0_AS.zip.010",
+            "md5": "0FD2C27C3EAE9BCECE14EBB9488C1E25"
+          }
+        ]
+      },
+      "v2.8.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260414113325_298ZJ0N2i5fBPiaz/VolumeZip/ZenlessZoneZero_2.8.0_AS.zip.001",
+            "md5": "AD006435B382A3A42D53EC836445CDED"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260414113325_298ZJ0N2i5fBPiaz/VolumeZip/ZenlessZoneZero_2.8.0_AS.zip.002",
+            "md5": "AC3573FDF28A635863816C8B4656AD03"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260414113325_298ZJ0N2i5fBPiaz/VolumeZip/ZenlessZoneZero_2.8.0_AS.zip.003",
+            "md5": "5EEB56CA39E963011B00B5B384FB7525"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260414113325_298ZJ0N2i5fBPiaz/VolumeZip/ZenlessZoneZero_2.8.0_AS.zip.004",
+            "md5": "A1A97827DDEF26EDE255046C0CA75D0C"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260414113325_298ZJ0N2i5fBPiaz/VolumeZip/ZenlessZoneZero_2.8.0_AS.zip.005",
+            "md5": "A65ABC17103A23652BB196D3DA221B56"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260414113325_298ZJ0N2i5fBPiaz/VolumeZip/ZenlessZoneZero_2.8.0_AS.zip.006",
+            "md5": "8E69CCFBADE4E88C15032663F0AA06CA"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260414113325_298ZJ0N2i5fBPiaz/VolumeZip/ZenlessZoneZero_2.8.0_AS.zip.007",
+            "md5": "FBB3D8A58CCC2A97398547821B503FC5"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260414113325_298ZJ0N2i5fBPiaz/VolumeZip/ZenlessZoneZero_2.8.0_AS.zip.008",
+            "md5": "4430C4380AED21B36FE381428CBBDA5F"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260414113325_298ZJ0N2i5fBPiaz/VolumeZip/ZenlessZoneZero_2.8.0_AS.zip.009",
+            "md5": "316B3012601F1CCC9DD63B02C773984F"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260414113325_298ZJ0N2i5fBPiaz/VolumeZip/ZenlessZoneZero_2.8.0_AS.zip.010",
+            "md5": "63327C9E6499A492423FF457EB3B15EF"
+          }
+        ]
+      },
+      "v3.0.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260529102601_EJSAGXWa8IwfrhcO/VolumeZip/ZenlessZoneZero_3.0.0_AS.zip.001",
+            "md5": "066C21D6D31D0290CC530968C4278979"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260529102601_EJSAGXWa8IwfrhcO/VolumeZip/ZenlessZoneZero_3.0.0_AS.zip.002",
+            "md5": "19708E14C52CEE5DE376DBC10A8A1EB3"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260529102601_EJSAGXWa8IwfrhcO/VolumeZip/ZenlessZoneZero_3.0.0_AS.zip.003",
+            "md5": "29089026CBA4556C12358ACA7CABF9DA"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260529102601_EJSAGXWa8IwfrhcO/VolumeZip/ZenlessZoneZero_3.0.0_AS.zip.004",
+            "md5": "AECABFF34D443252AE1BF7EF3529275C"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260529102601_EJSAGXWa8IwfrhcO/VolumeZip/ZenlessZoneZero_3.0.0_AS.zip.005",
+            "md5": "29435353C0EB849AB8C62E1FEFDDAC54"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260529102601_EJSAGXWa8IwfrhcO/VolumeZip/ZenlessZoneZero_3.0.0_AS.zip.006",
+            "md5": "0471A441B2418525EC05254B6C9C13DD"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260529102601_EJSAGXWa8IwfrhcO/VolumeZip/ZenlessZoneZero_3.0.0_AS.zip.007",
+            "md5": "05FD82784A3737F55DA389B76101D57C"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260529102601_EJSAGXWa8IwfrhcO/VolumeZip/ZenlessZoneZero_3.0.0_AS.zip.008",
+            "md5": "9239E871099066684D6AD48D982A2C91"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260529102601_EJSAGXWa8IwfrhcO/VolumeZip/ZenlessZoneZero_3.0.0_AS.zip.009",
+            "md5": "18BE0FB9BBA59CE630A26C82CFDF0DF8"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260529102601_EJSAGXWa8IwfrhcO/VolumeZip/ZenlessZoneZero_3.0.0_AS.zip.010",
+            "md5": "6EBC1779E9E1A9033ABEAAFAEAEFEF2A"
+          }
+        ]
+      },
+      "v3.1.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260713160950_6QTI9XOi96wt6aGX/VolumeZip/ZenlessZoneZero_3.1.0_AS.zip.001",
+            "md5": "08CB2BEC56583C54430EE5AA6D661407"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260713160950_6QTI9XOi96wt6aGX/VolumeZip/ZenlessZoneZero_3.1.0_AS.zip.002",
+            "md5": "A744A37696AF3063B7664E16B30F8995"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260713160950_6QTI9XOi96wt6aGX/VolumeZip/ZenlessZoneZero_3.1.0_AS.zip.003",
+            "md5": "856F92C9B9E3D67FAA133AEFC6266931"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260713160950_6QTI9XOi96wt6aGX/VolumeZip/ZenlessZoneZero_3.1.0_AS.zip.004",
+            "md5": "C9F58B6C7CA1D60FA1C40F73D6BAC1B1"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260713160950_6QTI9XOi96wt6aGX/VolumeZip/ZenlessZoneZero_3.1.0_AS.zip.005",
+            "md5": "D6F14CB84FF56B328F7CC99988275C96"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260713160950_6QTI9XOi96wt6aGX/VolumeZip/ZenlessZoneZero_3.1.0_AS.zip.006",
+            "md5": "20E418446AE4877DA4BC583935D9C0F2"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260713160950_6QTI9XOi96wt6aGX/VolumeZip/ZenlessZoneZero_3.1.0_AS.zip.007",
+            "md5": "18CF802D497928C9CAAB0FDC91217BEB"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260713160950_6QTI9XOi96wt6aGX/VolumeZip/ZenlessZoneZero_3.1.0_AS.zip.008",
+            "md5": "297C9FBB06620750F0316B496765BD53"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260713160950_6QTI9XOi96wt6aGX/VolumeZip/ZenlessZoneZero_3.1.0_AS.zip.009",
+            "md5": "F2945672713F446C597E1D9A4978F55B"
+          },
+          {
+            "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260713160950_6QTI9XOi96wt6aGX/VolumeZip/ZenlessZoneZero_3.1.0_AS.zip.010",
+            "md5": "42211345CB5750BE31D3A221254563D2"
+          }
+        ]
+      },
       "v3.2.0": {
         "url": "",
         "md5": "",
@@ -51,6 +971,78 @@
   },
   "VoicePack_Japanese": {
     "version": {
+      "v1.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240803155052_sLuZ7jKzX1U3OMad/audio_zip_Jp.zip",
+        "md5": "5c9cbad075d05177c77da2274620b575"
+      },
+      "v1.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240911153414_Az4jbyWkbTy02mXb/audio_zip_Jp.zip",
+        "md5": "dc2256b4fc97694fa310866ceaca5d6f"
+      },
+      "v1.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241025143744_v9hu0vrVKxeg51NA/audio_zip_Jp.zip",
+        "md5": "0c6b615a9b432ff8fbd0d5fac84ceea7"
+      },
+      "v1.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241206114419_kWogAAe0eGLTIgIF/audio_zip_Jp.zip",
+        "md5": "0a5cb8265eee1856fd2d43798f7b6790"
+      },
+      "v1.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250108124806_g97lIWR8kCKdhHRd/audio_zip_Jp.zip",
+        "md5": "593ad38fae16266dfc08ef414d6e38ff"
+      },
+      "v1.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250302131501_XPL3MbP0GgnuJoHq/audio_zip_Jp.zip",
+        "md5": "9022da3318c4092efa8758b66d30a666"
+      },
+      "v1.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/audio_zip_Jp.zip",
+        "md5": "d046469435b89f65204d1ab709e778f0"
+      },
+      "v2.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250520141953_yFXABptAOW2p67Sp/audio_zip_Jp.zip",
+        "md5": "df34b475893b694696fc915d45730030"
+      },
+      "v2.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/audio_zip_Jp.zip",
+        "md5": "ff0212798e715e6cb5c6a0a698037aa4"
+      },
+      "v2.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250812104632_XK2WSVcQEMVH4Fot/audio_zip_Jp.zip",
+        "md5": "9732934239c63defaef47b98c97927ae"
+      },
+      "v2.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250924105839_5lJoXvmzYoVsmDU1/audio_zip_Jp.zip",
+        "md5": "634d38b04464102536ef18ef97ba82f4"
+      },
+      "v2.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251104120052_6N45s97qrNRK9OVC/audio_zip_Jp.zip",
+        "md5": "a8fe9cbcbda56928e8462000a798080b"
+      },
+      "v2.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/audio_zip_Jp.zip",
+        "md5": "1136d142d7f4db0ea8dde61d3621f78b"
+      },
+      "v2.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/audio_zip_Jp.zip",
+        "md5": "34a33634d89a3109efacfebcaa6fa7c9"
+      },
+      "v2.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260309110439_llbyoA8QnJfwoVf2/audio_zip_Jp.zip",
+        "md5": "c0060bd3af1a0aeb4949418000dad8ba"
+      },
+      "v2.8.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260414113325_298ZJ0N2i5fBPiaz/audio_zip_Jp.zip",
+        "md5": "f0358556215390de9a64e80341ad1314"
+      },
+      "v3.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260529102601_EJSAGXWa8IwfrhcO/audio_zip_Jp.zip",
+        "md5": "597276f14a42edabeb22390d6dd9d110"
+      },
+      "v3.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260713160950_6QTI9XOi96wt6aGX/audio_zip_Jp.zip",
+        "md5": "70568056e5ee3d4d82c1f2d2620cac69"
+      },
       "v3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260822102736_LyqS8GNT2gQZojVb/audio_zip_Jp.zip",
         "md5": "074a9041ee20c38725297cf38c7ccba5"
@@ -59,6 +1051,78 @@
   },
   "VoicePack_English": {
     "version": {
+      "v1.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240803155052_sLuZ7jKzX1U3OMad/audio_zip_En.zip",
+        "md5": "220a745d461d1054316ff5aa9cc61f19"
+      },
+      "v1.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240911153414_Az4jbyWkbTy02mXb/audio_zip_En.zip",
+        "md5": "24de514b2bce3f14b10819dee4323d6a"
+      },
+      "v1.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241025143744_v9hu0vrVKxeg51NA/audio_zip_En.zip",
+        "md5": "c91a85cc9a89226674bb31ea6ec16d97"
+      },
+      "v1.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241206114419_kWogAAe0eGLTIgIF/audio_zip_En.zip",
+        "md5": "9419fe3cc08db387584d4e73bf7e8db4"
+      },
+      "v1.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250108124806_g97lIWR8kCKdhHRd/audio_zip_En.zip",
+        "md5": "6e6e8f9eb2b78fcc9aa8033a51612251"
+      },
+      "v1.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250302131501_XPL3MbP0GgnuJoHq/audio_zip_En.zip",
+        "md5": "f98c8e2f36b02fff0bd9ecccdddbf149"
+      },
+      "v1.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/audio_zip_En.zip",
+        "md5": "39a964a8d2c7b043dc7122ad36ab86fa"
+      },
+      "v2.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250520141953_yFXABptAOW2p67Sp/audio_zip_En.zip",
+        "md5": "ab341c57573608bdfe200d6a12bbda76"
+      },
+      "v2.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/audio_zip_En.zip",
+        "md5": "6c752a95d1e42f18bd9b0cd974f85423"
+      },
+      "v2.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250812104632_XK2WSVcQEMVH4Fot/audio_zip_En.zip",
+        "md5": "4f3dba9ae6cf5ef86c98d039a5704e54"
+      },
+      "v2.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250924105839_5lJoXvmzYoVsmDU1/audio_zip_En.zip",
+        "md5": "514717b6047616045f3448b9b02e1ebb"
+      },
+      "v2.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251104120052_6N45s97qrNRK9OVC/audio_zip_En.zip",
+        "md5": "b4de45610b2900cb4f8c0b95db87fb9a"
+      },
+      "v2.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/audio_zip_En.zip",
+        "md5": "154d0516d27e81a3f5ddc2e86073d443"
+      },
+      "v2.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/audio_zip_En.zip",
+        "md5": "12b05caf80be55746269fc838175c501"
+      },
+      "v2.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260309110439_llbyoA8QnJfwoVf2/audio_zip_En.zip",
+        "md5": "f03cb849870899107e9223813cc5a0c2"
+      },
+      "v2.8.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260414113325_298ZJ0N2i5fBPiaz/audio_zip_En.zip",
+        "md5": "d473c8cb1bf846d87d8d81890ac758bb"
+      },
+      "v3.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260529102601_EJSAGXWa8IwfrhcO/audio_zip_En.zip",
+        "md5": "171d1992d927c7dfa2d23592544ebd9e"
+      },
+      "v3.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260713160950_6QTI9XOi96wt6aGX/audio_zip_En.zip",
+        "md5": "45f6f36ade7df015feefca8265bdee91"
+      },
       "v3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260822102736_LyqS8GNT2gQZojVb/audio_zip_En.zip",
         "md5": "4836dc7a191772a974516ae831f56469"
@@ -67,6 +1131,78 @@
   },
   "VoicePack_Chinese": {
     "version": {
+      "v1.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240803155052_sLuZ7jKzX1U3OMad/audio_zip_Cn.zip",
+        "md5": "3a38d7b6fedae3f11d244d5907de6323"
+      },
+      "v1.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240911153414_Az4jbyWkbTy02mXb/audio_zip_Cn.zip",
+        "md5": "31009666962b09a1f7d42dcbf1e00221"
+      },
+      "v1.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241025143744_v9hu0vrVKxeg51NA/audio_zip_Cn.zip",
+        "md5": "4e66b0adcb1a7a482e0b2495fb2aa621"
+      },
+      "v1.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241206114419_kWogAAe0eGLTIgIF/audio_zip_Cn.zip",
+        "md5": "b6a41b23686dbca0b8ad2f3f114355ad"
+      },
+      "v1.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250108124806_g97lIWR8kCKdhHRd/audio_zip_Cn.zip",
+        "md5": "736288c35f595d2d61a4f0c35f38cfc7"
+      },
+      "v1.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250302131501_XPL3MbP0GgnuJoHq/audio_zip_Cn.zip",
+        "md5": "317420f4b84a4aefc35f66cd915abcb3"
+      },
+      "v1.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/audio_zip_Cn.zip",
+        "md5": "9b9633eb9323c6b69003f43fba561443"
+      },
+      "v2.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250520141953_yFXABptAOW2p67Sp/audio_zip_Cn.zip",
+        "md5": "0aaa925e332eb1101c539bb1ccba16c6"
+      },
+      "v2.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/audio_zip_Cn.zip",
+        "md5": "2c47037a5b36b57a6e73356650e92295"
+      },
+      "v2.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250812104632_XK2WSVcQEMVH4Fot/audio_zip_Cn.zip",
+        "md5": "0ce592c40e434072f1a8fb2039de39da"
+      },
+      "v2.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250924105839_5lJoXvmzYoVsmDU1/audio_zip_Cn.zip",
+        "md5": "ca7e9ab9e2a83a6fccdb205e4b73289a"
+      },
+      "v2.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251104120052_6N45s97qrNRK9OVC/audio_zip_Cn.zip",
+        "md5": "16c5019eefc6cdd9a6d01a7493c4ba8c"
+      },
+      "v2.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/audio_zip_Cn.zip",
+        "md5": "415355818e201434a22d0af277ead29d"
+      },
+      "v2.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/audio_zip_Cn.zip",
+        "md5": "c4a1b2f2f10a7623eaaa6ea41653a27f"
+      },
+      "v2.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260309110439_llbyoA8QnJfwoVf2/audio_zip_Cn.zip",
+        "md5": "b56cfad537ca1c355d01e003d3e0eb5f"
+      },
+      "v2.8.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260414113325_298ZJ0N2i5fBPiaz/audio_zip_Cn.zip",
+        "md5": "b3a8bfece2d020c06cdb20e7cb2df8b7"
+      },
+      "v3.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260529102601_EJSAGXWa8IwfrhcO/audio_zip_Cn.zip",
+        "md5": "bc1a476e66a2812869b994c739df2faf"
+      },
+      "v3.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260713160950_6QTI9XOi96wt6aGX/audio_zip_Cn.zip",
+        "md5": "a087523b4fd166ee32ede6d08b47edb6"
+      },
       "v3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260822102736_LyqS8GNT2gQZojVb/audio_zip_Cn.zip",
         "md5": "6e5202ce5889fc1edfc5eef2fe491eaf"
@@ -75,6 +1211,78 @@
   },
   "VoicePack_Korean": {
     "version": {
+      "v1.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240803155052_sLuZ7jKzX1U3OMad/audio_zip_Kr.zip",
+        "md5": "5c64997492f3a300b205a26161f535dc"
+      },
+      "v1.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240911153414_Az4jbyWkbTy02mXb/audio_zip_Kr.zip",
+        "md5": "9f7606e4caa8ce2b4116cfbff5de84d8"
+      },
+      "v1.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241025143744_v9hu0vrVKxeg51NA/audio_zip_Kr.zip",
+        "md5": "3c44cff9a95fda3c65ff31f5d017470b"
+      },
+      "v1.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20241206114419_kWogAAe0eGLTIgIF/audio_zip_Kr.zip",
+        "md5": "85451e704202037db7dc0a34d207632c"
+      },
+      "v1.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250108124806_g97lIWR8kCKdhHRd/audio_zip_Kr.zip",
+        "md5": "1e2934ecc26bb4812743b60a6698e1f6"
+      },
+      "v1.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250302131501_XPL3MbP0GgnuJoHq/audio_zip_Kr.zip",
+        "md5": "68f7d112000f4b09cd97af72c8bdd905"
+      },
+      "v1.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/audio_zip_Kr.zip",
+        "md5": "366ef1f81bed38415baeb8355224fcfe"
+      },
+      "v2.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250520141953_yFXABptAOW2p67Sp/audio_zip_Kr.zip",
+        "md5": "44ddf2dc386e390fec7d9477890939e5"
+      },
+      "v2.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/audio_zip_Kr.zip",
+        "md5": "32793ef806a84df01af775528ec01663"
+      },
+      "v2.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250812104632_XK2WSVcQEMVH4Fot/audio_zip_Kr.zip",
+        "md5": "dccbba0aa3bbafbe004dd04fe47144d3"
+      },
+      "v2.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250924105839_5lJoXvmzYoVsmDU1/audio_zip_Kr.zip",
+        "md5": "3552d6784b41781d8a6c28184ef5b85b"
+      },
+      "v2.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251104120052_6N45s97qrNRK9OVC/audio_zip_Kr.zip",
+        "md5": "9ebe28d1942d06e39ea2ef2a1d67885e"
+      },
+      "v2.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/audio_zip_Kr.zip",
+        "md5": "515c4ee7c9a67351d8c832ebeea131da"
+      },
+      "v2.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/audio_zip_Kr.zip",
+        "md5": "0eba511e8d547c588224f14459429031"
+      },
+      "v2.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260309110439_llbyoA8QnJfwoVf2/audio_zip_Kr.zip",
+        "md5": "783ac44a31542a82e5ae8a5c666b14b8"
+      },
+      "v2.8.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260414113325_298ZJ0N2i5fBPiaz/audio_zip_Kr.zip",
+        "md5": "75fc5de4b853316e6027ce6b0f899fe1"
+      },
+      "v3.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260529102601_EJSAGXWa8IwfrhcO/audio_zip_Kr.zip",
+        "md5": "dbc1de2d74842a168689a2fcc628dd1a"
+      },
+      "v3.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260713160950_6QTI9XOi96wt6aGX/audio_zip_Kr.zip",
+        "md5": "460c6797c67f436ab698c3a4f485acf7"
+      },
       "v3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260822102736_LyqS8GNT2gQZojVb/audio_zip_Kr.zip",
         "md5": "62a5203d051d769131ef1b1d1f86df37"
@@ -83,11 +1291,155 @@
   },
   "PackageDiff": {
     "version": {
-      "3.0.0>3.2.0": {
+      "v1.0.0>1.0.1": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.0.0_1.0.1_diff_YzQyHCCajeQGxVEl.zip",
+        "md5": "6c1d441f01b9134c1bd6269057a099fa"
+      },
+      "v1.0.0>1.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.0.1_1.2.0_hdiff_YqwqzpqrhBarhOLo.zip",
+        "md5": ""
+      },
+      "v1.0.1>1.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.0.1_1.1.0_hdiff_dQFWeJdkQICTaAhw.zip",
+        "md5": "07ed8b62733683d6cbc2b3e0e6185b4d"
+      },
+      "v1.1.0>1.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.1.0_1.2.0_hdiff_PPMFuiGAlWHxXmLy.zip",
+        "md5": "cd6491d2410a92230fcaa4d15f3b1ed4"
+      },
+      "v1.1.0>1.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.1.0_1.3.0_hdiff_knsFtMoQFNTTETbt.zip",
+        "md5": "fa9231b6731d54e14c88095af346c23c"
+      },
+      "v1.2.0>1.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.2.0_1.3.0_hdiff_MhiCgeYrwIIPEZNi.zip",
+        "md5": "a9cbb19eb0dd6e70e62dba0fce73fb90"
+      },
+      "v1.2.0>1.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.2.0_1.4.0_hdiff_sLFouIoXQLVtVfrS.zip",
+        "md5": "7da958ef9e073a8895fc0c6be7fd117d"
+      },
+      "v1.3.0>1.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.3.0_1.4.0_hdiff_TJWeqFiwRCcHNezq.zip",
+        "md5": "8965faafc21f7b74fd05f48c32f881d5"
+      },
+      "v1.3.0>1.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.3.0_1.5.0_hdiff_SZRrTZQhfBVOJlhF.zip",
+        "md5": "c87d119bfc3e8374ddcd629a32632363"
+      },
+      "v1.4.0>1.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.4.0_1.5.0_hdiff_noDeiKTsVBfFPtQr.zip",
+        "md5": "b913eadabe44f0b88941c03d024cee57"
+      },
+      "v1.4.0>1.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.4.0_1.6.0_hdiff_abQGGIosegcHEzzo.zip",
+        "md5": "1fc3dced63ca55c86472677fd2e877d2"
+      },
+      "v1.5.0>1.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.5.0_1.6.0_hdiff_DSxyLlSUswbKlgdV.zip",
+        "md5": "9cee083f3f4763be98bde9d5aec9ccd2"
+      },
+      "v1.5.0>1.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.5.0_1.7.0_hdiff_xUNHcyqYojpyDXBl.zip",
+        "md5": "fa80e07706407e56901ca81dd35f24e5"
+      },
+      "v1.6.0>1.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.6.0_1.7.0_hdiff_yjfizbdNZlDAdyty.zip",
+        "md5": "d74c4ba3b9a8e4cf58af438fb835f1ff"
+      },
+      "v1.6.0>2.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.6.0_2.0.0_hdiff_ZfWtcUZXqKqMbfud.zip",
+        "md5": "bf5642bcb7076428427599f983c375a1"
+      },
+      "v1.7.0>2.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.7.0_2.0.0_hdiff_hREhrLieklbFFgyv.zip",
+        "md5": "fc71057b20522096c39d1d7e9a257f4b"
+      },
+      "v1.7.0>2.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.7.0_2.1.0_hdiff_RalqjlQPcibALfgY.zip",
+        "md5": "658fedb92a409d5966e3fb93f8e36646"
+      },
+      "v2.0.0>2.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.0.0_2.1.0_hdiff_dpBRKxDszRWFDiZm.zip",
+        "md5": "fc6b28a5d3fc88941f7084d7751312f2"
+      },
+      "v2.0.0>2.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.0.0_2.2.0_hdiff_KIrwQVxGIFfhSFGB.zip",
+        "md5": "1a626679b7d168af469a5c4eb3cfa114"
+      },
+      "v2.1.0>2.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.1.0_2.2.0_hdiff_drkFctNrNhHuBmBT.zip",
+        "md5": "7e36b722df418f41ec26bdbe7a48ae0b"
+      },
+      "v2.1.0>2.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.1.0_2.3.0_hdiff_HhLWtgUoaJKITjrX.zip",
+        "md5": "495e1e79e3cd0ba9a7ae242f43a95d4e"
+      },
+      "v2.2.0>2.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.2.0_2.3.0_hdiff_OSeEMcGQrRpRpeef.zip",
+        "md5": "f59a1219b74d30f08c8a221e4dee818c"
+      },
+      "v2.2.0>2.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.2.0_2.4.0_hdiff_uFbDLCdYUznRCdbD.zip",
+        "md5": "fbef65f9e99ac534c9b1ead30e955c06"
+      },
+      "v2.3.0>2.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.3.0_2.4.0_hdiff_qaPAZoYmZeUJLAWM.zip",
+        "md5": "50c35bf08561aaf19236e1fed2a46268"
+      },
+      "v2.3.0>2.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.3.0_2.5.0_hdiff_hbhbWMtUowaouPnq.zip",
+        "md5": "a119932de43b56485d12176f485f8d17"
+      },
+      "v2.4.0>2.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.4.0_2.5.0_hdiff_uSTszooUUwzsBsoT.zip",
+        "md5": "d3052b3f28db1f558829340b23fe4990"
+      },
+      "v2.4.0>2.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.4.0_2.6.0_hdiff_QHOqULqfyPFBKahs.zip",
+        "md5": "f52c39454ce0ab82a8715c0753da0db0"
+      },
+      "v2.5.0>2.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.5.0_2.6.0_hdiff_OPZEMYLSXlPNfITQ.zip",
+        "md5": "19e859ea2503aab6de27d449f34b9449"
+      },
+      "v2.5.0>2.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.5.0_2.7.0_hdiff_NWivQOxhMAOSaoch.zip",
+        "md5": "51802edbbdd950de99815e18045b9e1c"
+      },
+      "v2.6.0>2.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.6.0_2.7.0_hdiff_xAsDGeadnSffSJTY.zip",
+        "md5": "751293185a0a9ba291e8a7c0037d9888"
+      },
+      "v2.6.0>2.8.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.6.0_2.8.0_hdiff_wvHaVFFLQiPFPWEG.zip",
+        "md5": "6f17af3a435e933cb79ab8da855e6d20"
+      },
+      "v2.7.0>2.8.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.7.0_2.8.0_hdiff_dtVSeUlDGgyhFgBa.zip",
+        "md5": "3aeb343970ec4510d624db9887ae1df2"
+      },
+      "v2.7.0>3.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.7.0_3.0.0_hdiff_zxqWQnktHlZnftGu.zip",
+        "md5": "14ec6e5a4b398d6fb21bfd9c849d4946"
+      },
+      "v2.8.0>3.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.8.0_3.0.0_hdiff_BvCYYtlnQuZZQaFw.zip",
+        "md5": "f268e59dd0492038fb2e83a9b800f877"
+      },
+      "v2.8.0>3.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.8.0_3.1.0_hdiff_UqEqhUtIAiyoHzHU.zip",
+        "md5": "3358ff5b7a17183f0febc56265818b54"
+      },
+      "v3.0.0>3.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_3.0.0_3.1.0_hdiff_qBoGdaYNHGoaWJyG.zip",
+        "md5": "120674dfff71374ca367b4bae78b223a"
+      },
+      "v3.0.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_3.0.0_3.2.0_hdiff_tzXXPwmMhrEpXNNm.zip",
         "md5": "8decfeb5738454e91c5e8dd0ddbae349"
       },
-      "3.1.0>3.2.0": {
+      "v3.1.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_3.1.0_3.2.0_hdiff_lllCrkWvhadMjaTY.zip",
         "md5": "e937cb7e72b6c90a0d4970fd9baf545f"
       }
@@ -95,11 +1447,151 @@
   },
   "VoicePackDiff_Japanese": {
     "version": {
-      "3.0.0>3.2.0": {
+      "v1.0.0>1.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.0.1_1.2.0_hdiff_tWhjsMVKuZfBMNzr.zip",
+        "md5": ""
+      },
+      "v1.0.1>1.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.0.1_1.1.0_hdiff_icFimTTzuCqPhGgs.zip",
+        "md5": "d7031d826e02e25808de1ea867ff1fee"
+      },
+      "v1.1.0>1.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.1.0_1.2.0_hdiff_sVNloHjmagFpzjdc.zip",
+        "md5": "e55d22ff9225e780df16b9cf513eb7aa"
+      },
+      "v1.1.0>1.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.1.0_1.3.0_hdiff_HwkUeeXIyizWTTcN.zip",
+        "md5": "ac48a42e7efaa970ac042b6c0d8af219"
+      },
+      "v1.2.0>1.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.2.0_1.3.0_hdiff_iRbpGqLcthbrhWaC.zip",
+        "md5": "1a431e79e07412355965b6e293e0ef44"
+      },
+      "v1.2.0>1.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.2.0_1.4.0_hdiff_PnALrCsGrfiofiaQ.zip",
+        "md5": "d3a4d6245a52ec4a6da18228ceff0113"
+      },
+      "v1.3.0>1.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.3.0_1.4.0_hdiff_BwsXQvtkBnyDEbrO.zip",
+        "md5": "17c0915a5af8a83d2ff73c0f38e2a79e"
+      },
+      "v1.3.0>1.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.3.0_1.5.0_hdiff_wIjyGuASrcguVUXU.zip",
+        "md5": "c4a246d1696b323672311794317d910a"
+      },
+      "v1.4.0>1.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.4.0_1.5.0_hdiff_FIGcVSXzAEIMrExp.zip",
+        "md5": "8dde47f26f86ff22cb8d5acb01f08c0a"
+      },
+      "v1.4.0>1.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.4.0_1.6.0_hdiff_ftaRuqbtApVenZgy.zip",
+        "md5": "7b704ec84f3a0bcdb12b43080fe1b09d"
+      },
+      "v1.5.0>1.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.5.0_1.6.0_hdiff_HhzOoXwRAmMHsrQN.zip",
+        "md5": "8c570a327fcf06ef1616371073356917"
+      },
+      "v1.5.0>1.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.5.0_1.7.0_hdiff_pXwSoYlNUpfBMqoy.zip",
+        "md5": "30a39875fba853af9c08348ccbc2c24f"
+      },
+      "v1.6.0>1.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.6.0_1.7.0_hdiff_bGPRpQvcCUdAiFKs.zip",
+        "md5": "f9f4abf3ef4481b7f225a75131a2263d"
+      },
+      "v1.6.0>2.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.6.0_2.0.0_hdiff_brvqwKajnKNUasBc.zip",
+        "md5": "fbd7722d2540ae71a6175d7033f6c318"
+      },
+      "v1.7.0>2.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.7.0_2.0.0_hdiff_udftjkUNqnQfzyIK.zip",
+        "md5": "eb252a4d3e936125f922c5c9e8048356"
+      },
+      "v1.7.0>2.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.7.0_2.1.0_hdiff_ZzjGUNsqLqtYqhvU.zip",
+        "md5": "7ae7dc3603618af6c23f2bde4832ecb8"
+      },
+      "v2.0.0>2.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.0.0_2.1.0_hdiff_LFVRXZSPjqaRUoNj.zip",
+        "md5": "db25a5a3b69fedb80d70619c25709073"
+      },
+      "v2.0.0>2.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.0.0_2.2.0_hdiff_YBAGiUxEiMaDEhLp.zip",
+        "md5": "7c1486a078e918201c60a5fd77ef261a"
+      },
+      "v2.1.0>2.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.1.0_2.2.0_hdiff_QUxWqPlxtiAwHqkW.zip",
+        "md5": "b7533f4be1dd891ead232cf69e4ff672"
+      },
+      "v2.1.0>2.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.1.0_2.3.0_hdiff_DlZKyTuXXnkGTBJP.zip",
+        "md5": "36d14f92636da534e203526c6c99d2ce"
+      },
+      "v2.2.0>2.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.2.0_2.3.0_hdiff_xKayXkBgboVQnGWu.zip",
+        "md5": "258571ce6b521733111c6f826352f152"
+      },
+      "v2.2.0>2.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.2.0_2.4.0_hdiff_RHTpNcQZyVarGvPG.zip",
+        "md5": "25823847020e2984d7e05f5d228904d1"
+      },
+      "v2.3.0>2.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.3.0_2.4.0_hdiff_GjEaNHWKyLfvornO.zip",
+        "md5": "11e2677dff0606c675ed1aa8f892be1d"
+      },
+      "v2.3.0>2.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.3.0_2.5.0_hdiff_QOxbAdjOusQerRUU.zip",
+        "md5": "bccae5b9dac6be3cc6154ae4ed86dc8f"
+      },
+      "v2.4.0>2.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.4.0_2.5.0_hdiff_EvSHfUGuQRyGWzxS.zip",
+        "md5": "ef7af992896f486154cb87d53155a54b"
+      },
+      "v2.4.0>2.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.4.0_2.6.0_hdiff_ZqKQFvUpvKXVblfD.zip",
+        "md5": "c4f6c737b7fda512bcd95a8ee1c4502a"
+      },
+      "v2.5.0>2.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.5.0_2.6.0_hdiff_fcIsWXjZiskgAMzu.zip",
+        "md5": "01b24782cd4c1160b6c58b40cfbb5b80"
+      },
+      "v2.5.0>2.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.5.0_2.7.0_hdiff_KUGKzTiOtrSroPQE.zip",
+        "md5": "c321deb728770dbf572f93418e8f05fa"
+      },
+      "v2.6.0>2.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.6.0_2.7.0_hdiff_AbRmvzENmsBLnwxC.zip",
+        "md5": "9f91936adaaaa7c29513b0741f3912f7"
+      },
+      "v2.6.0>2.8.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.6.0_2.8.0_hdiff_LPHXtinzinOkgTwE.zip",
+        "md5": "cebfd6172e294e14b4821be4b2d585bf"
+      },
+      "v2.7.0>2.8.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.7.0_2.8.0_hdiff_JSEGymXUGsAqkBmW.zip",
+        "md5": "c4259459efad2ff68450a06fb1416f1c"
+      },
+      "v2.7.0>3.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.7.0_3.0.0_hdiff_nQQvJOcybieUCmaQ.zip",
+        "md5": "552b1d1c9eb656e69e8ff8a6c6e4c175"
+      },
+      "v2.8.0>3.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.8.0_3.0.0_hdiff_PlwNwBDemmEVpMHk.zip",
+        "md5": "e4d89cdf14d7c6db2f7232c46cd21795"
+      },
+      "v2.8.0>3.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.8.0_3.1.0_hdiff_QeXzcCdLrKlMUkin.zip",
+        "md5": "7ee05bbf73604c52e578e45c9cb83209"
+      },
+      "v3.0.0>3.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_3.0.0_3.1.0_hdiff_selRyDiDVxvyISJW.zip",
+        "md5": "689b298b07b81a12a948e9cb4f33ca37"
+      },
+      "v3.0.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_3.0.0_3.2.0_hdiff_RtLsfTkCraLLqmXs.zip",
         "md5": "3c8eec7f86aa360542b40f97ece4b973"
       },
-      "3.1.0>3.2.0": {
+      "v3.1.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_3.1.0_3.2.0_hdiff_cQuxkDzalUDvwMrA.zip",
         "md5": "8e41ce2dcd7bea113a4d00a262a88780"
       }
@@ -107,11 +1599,151 @@
   },
   "VoicePackDiff_English": {
     "version": {
-      "3.0.0>3.2.0": {
+      "v1.0.0>1.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.0.1_1.2.0_hdiff_PKLFCAnFmtedQpMM.zip",
+        "md5": ""
+      },
+      "v1.0.1>1.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.0.1_1.1.0_hdiff_hZKUdNaKkfwPotiT.zip",
+        "md5": "1226cebc184da09c9526e57901897cd4"
+      },
+      "v1.1.0>1.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.1.0_1.2.0_hdiff_BexoNKEvjSgpiKld.zip",
+        "md5": "4233192cc1a7b461f42f684332e07c22"
+      },
+      "v1.1.0>1.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.1.0_1.3.0_hdiff_irsFllHRDbltgUdi.zip",
+        "md5": "f4f03fc7f49ac7e5f229260dc3fce593"
+      },
+      "v1.2.0>1.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.2.0_1.3.0_hdiff_JLzKnbsYhOsjTXnZ.zip",
+        "md5": "e98847e49ad93d365e9c7991b7e9e633"
+      },
+      "v1.2.0>1.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.2.0_1.4.0_hdiff_IxbcegJzpUHLNbHE.zip",
+        "md5": "506792ae80bb97a8ef320fa7648f254e"
+      },
+      "v1.3.0>1.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.3.0_1.4.0_hdiff_PKKDAfmMdsXuQLLP.zip",
+        "md5": "8e88bb6e6cea3f1bd256a6a110017d99"
+      },
+      "v1.3.0>1.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.3.0_1.5.0_hdiff_BSBtGDxjhjtYjVzl.zip",
+        "md5": "f088cdff19e8c75a10347d6ba8e99e9e"
+      },
+      "v1.4.0>1.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.4.0_1.5.0_hdiff_ZVncZcSUdyxnyXFZ.zip",
+        "md5": "2b17ed967e8c221b01d7030c74031433"
+      },
+      "v1.4.0>1.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.4.0_1.6.0_hdiff_mfHOPjxPwLBbVbED.zip",
+        "md5": "b2f3c1eb58efe719eb62114d713c2757"
+      },
+      "v1.5.0>1.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.5.0_1.6.0_hdiff_WkmgnXhJDLneYyLq.zip",
+        "md5": "500d96a1dfcba95b4bea097709790901"
+      },
+      "v1.5.0>1.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.5.0_1.7.0_hdiff_yRGDkhcZhnKodmLr.zip",
+        "md5": "dd56a130c81de369dc773f84072b482c"
+      },
+      "v1.6.0>1.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.6.0_1.7.0_hdiff_CGwKBFndgbSVKxZe.zip",
+        "md5": "3fe79e430ab42a9951f218f9ea791ec2"
+      },
+      "v1.6.0>2.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.6.0_2.0.0_hdiff_llyMxWAKWxdTWzdi.zip",
+        "md5": "3762070a76e725717939fc1c979cf556"
+      },
+      "v1.7.0>2.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.7.0_2.0.0_hdiff_lrwTnyVkhyiTynKm.zip",
+        "md5": "650f1a0b87480d20a22f9bb645c53a69"
+      },
+      "v1.7.0>2.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_1.7.0_2.1.0_hdiff_rxmlyCpXDnIwzzPl.zip",
+        "md5": "2db39635e636c69cc95dc5f419fb55b6"
+      },
+      "v2.0.0>2.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.0.0_2.1.0_hdiff_gdguMoBoEafzmnEi.zip",
+        "md5": "1f4ba3424825ad0babf3b820ee308df0"
+      },
+      "v2.0.0>2.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.0.0_2.2.0_hdiff_EMrgWRHWlzesFERy.zip",
+        "md5": "bcbcc0f430082ee4c0e6ac5017f947b4"
+      },
+      "v2.1.0>2.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.1.0_2.2.0_hdiff_LnfaaJxszPDXwLwd.zip",
+        "md5": "c3a9b22690bf7e0f4c263436836db05a"
+      },
+      "v2.1.0>2.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.1.0_2.3.0_hdiff_ZtkzLyzAYxBsBLiy.zip",
+        "md5": "77c70d5a705e4bfc5fbcd19f09a080eb"
+      },
+      "v2.2.0>2.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.2.0_2.3.0_hdiff_dgplJbKJjmSUYcEl.zip",
+        "md5": "061232046bfe267b571df40a900c3c04"
+      },
+      "v2.2.0>2.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.2.0_2.4.0_hdiff_gEpRUaAowIlZikNL.zip",
+        "md5": "0232c9f147ca5ae2416da9a86fa324c0"
+      },
+      "v2.3.0>2.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.3.0_2.4.0_hdiff_VzKnKmTshSFzspQq.zip",
+        "md5": "a7eab98ad1f18d8c0b0f1030fe719cbc"
+      },
+      "v2.3.0>2.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.3.0_2.5.0_hdiff_lFFetDfiHrRBUHst.zip",
+        "md5": "18fab48a4dd03df42bc208e358519872"
+      },
+      "v2.4.0>2.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.4.0_2.5.0_hdiff_aLDxOhpybzLhdzqv.zip",
+        "md5": "7a0b1f782fa1eeee99f776ae73f79a08"
+      },
+      "v2.4.0>2.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.4.0_2.6.0_hdiff_CayumCfLBOIrXQvB.zip",
+        "md5": "b4ba45398d29980f7d1e540d3bd97adc"
+      },
+      "v2.5.0>2.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.5.0_2.6.0_hdiff_vbnkJZuFIxgBRsvw.zip",
+        "md5": "f3cbd9e2fc543a824e35ab8667fca56d"
+      },
+      "v2.5.0>2.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.5.0_2.7.0_hdiff_ZPrUQrBhQdUpQzXC.zip",
+        "md5": "b7b617d264ca450ccd19ac4d638469d2"
+      },
+      "v2.6.0>2.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.6.0_2.7.0_hdiff_iFwzjdunKqmrHseM.zip",
+        "md5": "94e99bee95b3d3c10438eddca230ee3c"
+      },
+      "v2.6.0>2.8.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.6.0_2.8.0_hdiff_oAhNaVPDAEzoDODn.zip",
+        "md5": "c27fb40c3b2d4ef2c0bfc7efbcc3f9a5"
+      },
+      "v2.7.0>2.8.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.7.0_2.8.0_hdiff_psdttUgUimRIhSXK.zip",
+        "md5": "49c7e1f898b4b99ff9ef8de34399b998"
+      },
+      "v2.7.0>3.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.7.0_3.0.0_hdiff_iwnwYTidjHsrHNiW.zip",
+        "md5": "ce445299beececb9e46496802f209ce5"
+      },
+      "v2.8.0>3.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.8.0_3.0.0_hdiff_IGmmwJHVnkQfcVau.zip",
+        "md5": "359f3c7e719604a1c5e49f0f0970f844"
+      },
+      "v2.8.0>3.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.8.0_3.1.0_hdiff_UcOxBnzSWoxkoXQd.zip",
+        "md5": "43ed87fb91bbf4da17d498cb0611cb10"
+      },
+      "v3.0.0>3.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_3.0.0_3.1.0_hdiff_ubBkKcMrlwgxBjLB.zip",
+        "md5": "6c665d759d6b55650a70ae5137a00e15"
+      },
+      "v3.0.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_3.0.0_3.2.0_hdiff_gFpTxSuZnjHMBbCM.zip",
         "md5": "3a3774a3cde20352e2fc0eddb8dc4e80"
       },
-      "3.1.0>3.2.0": {
+      "v3.1.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_3.1.0_3.2.0_hdiff_TaspDbfDXZQKGTMT.zip",
         "md5": "d7cfcc57dd7ecc36758e48a6450f1fa4"
       }
@@ -119,11 +1751,151 @@
   },
   "VoicePackDiff_Chinese": {
     "version": {
-      "3.0.0>3.2.0": {
+      "v1.0.0>1.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.0.1_1.2.0_hdiff_CPiCvhXUSvsKhMZh.zip",
+        "md5": ""
+      },
+      "v1.0.1>1.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.0.1_1.1.0_hdiff_EJDcwbkGUKObZobY.zip",
+        "md5": "4d2233418349ffede92fbbaaea2600ae"
+      },
+      "v1.1.0>1.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.1.0_1.2.0_hdiff_YTqXqghTgHPHHmpD.zip",
+        "md5": "e8ff58e1a532ff28b2b1b4337857a24d"
+      },
+      "v1.1.0>1.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.1.0_1.3.0_hdiff_TMDALhbVflQzzRgY.zip",
+        "md5": "768f60f6be74574b7cc6ffac889b21e5"
+      },
+      "v1.2.0>1.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.2.0_1.3.0_hdiff_uHQHkgdmANpulHCV.zip",
+        "md5": "90472b6d26d1fc7bb9e8bbd08f055cce"
+      },
+      "v1.2.0>1.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.2.0_1.4.0_hdiff_TjxWwebponEfRXhV.zip",
+        "md5": "95a6a694a191c94f503cbe0b69736deb"
+      },
+      "v1.3.0>1.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.3.0_1.4.0_hdiff_dKytRQTsyANCIYXe.zip",
+        "md5": "9f1deee09b8687b192534b73a1890d26"
+      },
+      "v1.3.0>1.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.3.0_1.5.0_hdiff_diELlvXtiqkFxOvo.zip",
+        "md5": "bbd92d9039634633c74484323a9452cf"
+      },
+      "v1.4.0>1.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.4.0_1.5.0_hdiff_MWzJmWjOugrkOEgi.zip",
+        "md5": "836b670d0ff655f98bd99f2a004f2049"
+      },
+      "v1.4.0>1.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.4.0_1.6.0_hdiff_PcKTbYSYcMapIejm.zip",
+        "md5": "cd3749e220a707ae6bd3c3cf89e61d06"
+      },
+      "v1.5.0>1.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.5.0_1.6.0_hdiff_MFltGYfcSlRzRFdf.zip",
+        "md5": "f2d853aab72588a4c8497ac29a86abc1"
+      },
+      "v1.5.0>1.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.5.0_1.7.0_hdiff_wzBGybpNmFRkmTde.zip",
+        "md5": "ed91e81b38ef542919b9356507577519"
+      },
+      "v1.6.0>1.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.6.0_1.7.0_hdiff_IARjdCXZwNuKZOtv.zip",
+        "md5": "16d1e623e6989b3eed20c595b1905f14"
+      },
+      "v1.6.0>2.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.6.0_2.0.0_hdiff_oFnJhRKsLWCVAohp.zip",
+        "md5": "04193e2f6e76913244a1275dfe44890d"
+      },
+      "v1.7.0>2.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.7.0_2.0.0_hdiff_GYIGkhXdThvbcTln.zip",
+        "md5": "c7619d22735c11693f5702fbf5d40125"
+      },
+      "v1.7.0>2.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.7.0_2.1.0_hdiff_NDXyWDJrqCmoLIGW.zip",
+        "md5": "5850a614650fa911ddfb2498b21e0228"
+      },
+      "v2.0.0>2.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.0.0_2.1.0_hdiff_CzLnnRJMIobchZaH.zip",
+        "md5": "a8a091f7c0dda52f287b0517995e1b53"
+      },
+      "v2.0.0>2.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.0.0_2.2.0_hdiff_QfHnWOaqsrGgKKSh.zip",
+        "md5": "f57aa3a5714e44e058a36bcda4053a37"
+      },
+      "v2.1.0>2.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.1.0_2.2.0_hdiff_HXQsrHFioNiwhgol.zip",
+        "md5": "fd64810ba27076ef39df5bf6d8ee8a4f"
+      },
+      "v2.1.0>2.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.1.0_2.3.0_hdiff_GzlwnCcafbHgOvgP.zip",
+        "md5": "163e03ef5a8fe19ea076bcf3cd5c28b1"
+      },
+      "v2.2.0>2.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.2.0_2.3.0_hdiff_AnZmYoMtQkKTSlFP.zip",
+        "md5": "75523f4f36c240c0251ba9884372fe69"
+      },
+      "v2.2.0>2.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.2.0_2.4.0_hdiff_WCLygyJGMvUCbZQJ.zip",
+        "md5": "6d5c7833f8feb084f9f562a69cdc7442"
+      },
+      "v2.3.0>2.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.3.0_2.4.0_hdiff_uJajmDipRywKyIsc.zip",
+        "md5": "ed1555ba62d95254d6b6e275eff9e18d"
+      },
+      "v2.3.0>2.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.3.0_2.5.0_hdiff_iPtpISAnygaGXEIB.zip",
+        "md5": "a6e0285743e886b7d477dc8278a26434"
+      },
+      "v2.4.0>2.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.4.0_2.5.0_hdiff_RdBOdpodhWODWnZJ.zip",
+        "md5": "ba563c2b810efd794c0695e8babdadc7"
+      },
+      "v2.4.0>2.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.4.0_2.6.0_hdiff_NREtxBOTBUKsJsXh.zip",
+        "md5": "7b1db29b3f778d0fcac067e61bbee626"
+      },
+      "v2.5.0>2.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.5.0_2.6.0_hdiff_vzHrlpJiyLjNwHhz.zip",
+        "md5": "f1b42d20bf692330ed39dc90b9178fd3"
+      },
+      "v2.5.0>2.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.5.0_2.7.0_hdiff_eqOXjZozzUvdTkil.zip",
+        "md5": "96b5aba821c3252a7ea5bcd66ef3b0d4"
+      },
+      "v2.6.0>2.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.6.0_2.7.0_hdiff_LpzaQGUIFqljKCoy.zip",
+        "md5": "0f1535c825fb80725ec60e40d82f54f7"
+      },
+      "v2.6.0>2.8.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.6.0_2.8.0_hdiff_wpWVlKeMVLdUKWhI.zip",
+        "md5": "61c9c5fab46ec00d0cd161516dbe6ee9"
+      },
+      "v2.7.0>2.8.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.7.0_2.8.0_hdiff_lfCKVQZYvXiZBNAK.zip",
+        "md5": "233a1f83f49bc0db28b6a0595965c8ef"
+      },
+      "v2.7.0>3.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.7.0_3.0.0_hdiff_PsivJAhqJWiWZkTC.zip",
+        "md5": "d49b6329dd67625a822afeacd7023b82"
+      },
+      "v2.8.0>3.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.8.0_3.0.0_hdiff_DNDxlOPQtYfyKBuG.zip",
+        "md5": "c7859a3271d67fb46fe89a9d43932cb3"
+      },
+      "v2.8.0>3.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.8.0_3.1.0_hdiff_hZYaDCjGeyZMwXcd.zip",
+        "md5": "4cc9744146a4e1b38dcbd6f49d33aa8a"
+      },
+      "v3.0.0>3.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_3.0.0_3.1.0_hdiff_NeWbJeurRLvVKJZw.zip",
+        "md5": "2e6f39fcf420556dc277dcda00b2c198"
+      },
+      "v3.0.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_3.0.0_3.2.0_hdiff_AtmzATLpbForhWCg.zip",
         "md5": "67aaa59671f12dacc603bec9d83e6ec4"
       },
-      "3.1.0>3.2.0": {
+      "v3.1.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_3.1.0_3.2.0_hdiff_rSEADnyqUrvsYiYh.zip",
         "md5": "cc2c38a76548f68bdc33128d0e48a3f7"
       }
@@ -131,13 +1903,161 @@
   },
   "VoicePackDiff_Korean": {
     "version": {
-      "3.0.0>3.2.0": {
+      "v1.0.0>1.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.0.1_1.2.0_hdiff_MccCJwOABnCGSXKO.zip",
+        "md5": ""
+      },
+      "v1.0.1>1.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.0.1_1.1.0_hdiff_HLGOvKwjlQPsGmRs.zip",
+        "md5": "372e169298b079a74f22cda67e23f47a"
+      },
+      "v1.1.0>1.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.1.0_1.2.0_hdiff_dyfFTMIaadTHwqxY.zip",
+        "md5": "dff0c72b343d56a090f4db1d3b0e4030"
+      },
+      "v1.1.0>1.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.1.0_1.3.0_hdiff_mNPeKBiCXgicRbVk.zip",
+        "md5": "0527d54a964bd278351656c25311e354"
+      },
+      "v1.2.0>1.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.2.0_1.3.0_hdiff_HmTXRtceYTFoTpwN.zip",
+        "md5": "bffc0c094e5942c5e8d510d0f3858e82"
+      },
+      "v1.2.0>1.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.2.0_1.4.0_hdiff_EehVKyizTDQLNwUb.zip",
+        "md5": "2541f01a9fdce8e02a9841e9e419471e"
+      },
+      "v1.3.0>1.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.3.0_1.4.0_hdiff_ZjkGACsivrLfVaTs.zip",
+        "md5": "26a24d20650afa145ce959324b3cf50e"
+      },
+      "v1.3.0>1.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.3.0_1.5.0_hdiff_oNBbsMBUKcSPvHMZ.zip",
+        "md5": "f2d3ff547958d25446d27b54c8e39d11"
+      },
+      "v1.4.0>1.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.4.0_1.5.0_hdiff_AfzSMohpQLrwkSkz.zip",
+        "md5": "15c2a2bee5715b95dab3ed1c30098a11"
+      },
+      "v1.4.0>1.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.4.0_1.6.0_hdiff_TmfNepRHQldWVqHQ.zip",
+        "md5": "69c40e0ecc930f6d19b6e439a5c98432"
+      },
+      "v1.5.0>1.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.5.0_1.6.0_hdiff_JuVqCMVWxYNvxjbz.zip",
+        "md5": "6cde3a28096bf9d204b29516af71f4c6"
+      },
+      "v1.5.0>1.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.5.0_1.7.0_hdiff_LHDBkpoxZdczrFZs.zip",
+        "md5": "f5c2b02bd4619d8cb8cc052db69e495c"
+      },
+      "v1.6.0>1.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.6.0_1.7.0_hdiff_DKfLTaLDRyYeeQrP.zip",
+        "md5": "0442663547c8815bf877fbb52aae9cb8"
+      },
+      "v1.6.0>2.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.6.0_2.0.0_hdiff_KfupVFLcDnaetYVo.zip",
+        "md5": "90244cf359a694f7678b821e7e3ff33a"
+      },
+      "v1.7.0>2.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.7.0_2.0.0_hdiff_INYgkmBnGJJrDfhf.zip",
+        "md5": "2e8eff422e8a9132cbf45517e86da11f"
+      },
+      "v1.7.0>2.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.7.0_2.1.0_hdiff_UQGmJTFKCqvHLTqP.zip",
+        "md5": "49fabbd827ee49ec98514bd344a7157b"
+      },
+      "v2.0.0>2.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.0.0_2.1.0_hdiff_cpTgUpbGabtnkRfY.zip",
+        "md5": "3cab070219574f9573d7e756b6078ced"
+      },
+      "v2.0.0>2.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.0.0_2.2.0_hdiff_XoSJOrOIWjnkWSPu.zip",
+        "md5": "45702f211d6e047bb526ba5f39d32e6f"
+      },
+      "v2.1.0>2.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.1.0_2.2.0_hdiff_gneCBZMZadhYyHfa.zip",
+        "md5": "3a77ed9c355334fb87646d76049b42ec"
+      },
+      "v2.1.0>2.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.1.0_2.3.0_hdiff_isfLymCcUrlThazr.zip",
+        "md5": "fc825e06d5f06e7f295372353e79df76"
+      },
+      "v2.2.0>2.3.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.2.0_2.3.0_hdiff_XCZcNcsbrbdBrrtA.zip",
+        "md5": "f1c54ac0b5931ca825ee394acc6faeb0"
+      },
+      "v2.2.0>2.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.2.0_2.4.0_hdiff_fIQAoSxhWFzVMMvS.zip",
+        "md5": "7aab7ae2ec4d8ec87f63b432eb1c6046"
+      },
+      "v2.3.0>2.4.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.3.0_2.4.0_hdiff_mUzuQWJgJzxKwwxd.zip",
+        "md5": "862bf593e4e29bdce56601e0f9f35a10"
+      },
+      "v2.3.0>2.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.3.0_2.5.0_hdiff_CWHaxPlMHtNbKmpe.zip",
+        "md5": "ab33dd719eacd563af5bf6e96f9b5cb4"
+      },
+      "v2.4.0>2.5.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.4.0_2.5.0_hdiff_iRwfwDxEFcrSLIfm.zip",
+        "md5": "78b09236a18834f13353f11b1c9accad"
+      },
+      "v2.4.0>2.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.4.0_2.6.0_hdiff_yNZxfDHANessoCMb.zip",
+        "md5": "d29b0a21f6842df8f389d0d6a8d0f558"
+      },
+      "v2.5.0>2.6.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.5.0_2.6.0_hdiff_VBizkhloBuqHgvxA.zip",
+        "md5": "072698ecd7e2e7b2fa83b6f456181d9a"
+      },
+      "v2.5.0>2.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.5.0_2.7.0_hdiff_LLIFYDJJYDzyoQNl.zip",
+        "md5": "fbd3c3860d67ba53d0333a216296ff9e"
+      },
+      "v2.6.0>2.7.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.6.0_2.7.0_hdiff_aoBSayzVznkUkEzs.zip",
+        "md5": "151ab37de0ccfe03d77a76fea2155f25"
+      },
+      "v2.6.0>2.8.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.6.0_2.8.0_hdiff_OmhduwvJfUYcotRb.zip",
+        "md5": "4e895db1d49f7867a92019e0860532c0"
+      },
+      "v2.7.0>2.8.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.7.0_2.8.0_hdiff_kxCpMAscaqtegpfa.zip",
+        "md5": "78779d362d785f63386149476c161fcf"
+      },
+      "v2.7.0>3.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.7.0_3.0.0_hdiff_EnTCTpAkvxapNuOo.zip",
+        "md5": "8fd260b270dfb4c223efd662f57edd55"
+      },
+      "v2.8.0>3.0.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.8.0_3.0.0_hdiff_hjZuQVJxZHeCOBIc.zip",
+        "md5": "fc71ab2a11867565dd56c5151bdd40e7"
+      },
+      "v2.8.0>3.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.8.0_3.1.0_hdiff_wOPWVTpyqUPrlBji.zip",
+        "md5": "fc246c536e618b9803f5a716e1684e80"
+      },
+      "v3.0.0>3.1.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_3.0.0_3.1.0_hdiff_XCBLfPDWVbStSguc.zip",
+        "md5": "dc163af8ddc94db22c0cdcca6a1a4fff"
+      },
+      "v3.0.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_3.0.0_3.2.0_hdiff_zCxlzDHQCfwijIqG.zip",
         "md5": "15b4bc2fcd89a4323eea3ce89bd83f7d"
       },
-      "3.1.0>3.2.0": {
+      "v3.1.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_3.1.0_3.2.0_hdiff_BkjYEVvJdVqNlzuW.zip",
         "md5": "e388e481414350a501bd43c607db9477"
+      }
+    }
+  },
+  "Launcher": {
+    "version": {
+      "v000": {
+        "url": "https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20240619172322_Fdm2LAw0My33jslM/overseagwpc/ZenlessZoneZero_setup_202406191659.exe",
+        "md5": ""
       }
     }
   }
