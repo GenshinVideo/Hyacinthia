@@ -1,64 +1,896 @@
 {
   "Package": {
     "version": {
-      "v4.4.0": {
+      "v0.90.57": {
+        "url": "",
+        "md5": "595143f3bf6010b59880245d7977bd91"
+      },
+      "v0.90.0": {
+        "url": "",
+        "md5": "6717b1560bac650f0dbde4011df6e967"
+      },
+      "v1.0.5": {
+        "url": "https://autopatchos.starrails.com/client/download/20230413214947_toY0cWzqBhhM2EDV/StarRail_1.0.5.zip",
+        "md5": "6717b1560bac650f0dbde4011df6e967"
+      },
+      "v1.1.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20230527111343_8wBHfb9dmez1XooM/StarRail_1.1.0.zip",
+        "md5": "d25f4eaf495c372f6d3eaec8c73382a5"
+      },
+      "v1.2.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20230710105424_73M0QhfClo2h6mt9/StarRail_1.2.0.zip",
+        "md5": "704ddb6a18539004e08a03b533474784"
+      },
+      "v1.3.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20230818154115_zM5gPxuuDCOBXT2R/StarRail_1.3.0.zip",
+        "md5": "d2e44335177ba491289e0a1a49683137"
+      },
+      "v1.4.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20230926143436_SlNTPYWin037OJmV/StarRail_1.4.0.zip",
+        "md5": "7624c83a7f42807ee28f87b026cbba7d"
+      },
+      "v1.5.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20231103104955_cqUaz5ynWxXulVjV/PC/StarRail_1.5.0.zip",
+        "md5": "ea0741371124b566ec643ee69b4c835a"
+      },
+      "v1.6.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20231215090631_Lj4TDfHZUY5Fy9ie/PC/StarRail_1.6.0.zip",
+        "md5": "6ae2f5b4b65cc512394aa60ab41ada3b"
+      },
+      "v2.0.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240126105613_xi8FVxCWfDpjdC2r/PC/StarRail_2.0.0.zip",
+        "md5": "297bf91e252106394ee6f590fe46007d"
+      },
+      "v2.1.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240315112058_ccCKIhL7nSrowkqT/PC/StarRail_2.1.0.zip",
+        "md5": "590dd649fd50f340a4e4bdac7f106956"
+      },
+      "v2.2.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240425223839_3VWucOmMCTBJ9kl2/PC/StarRail_2.2.0.zip",
+        "md5": "9d573ed5ab7c63b921f85b2a39bfe0ea"
+      },
+      "v2.3.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240608160515_WaNfKntJ7dt6k6rt/PC/StarRail_2.3.0.zip",
+        "md5": "4b35f72f69119b19ecf0c4f8dc91d257"
+      },
+      "v2.4.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240719103540_r670trRHzhCRTAiW/PC/StarRail_2.4.0.zip",
+        "md5": "a97ffdbc727969bec875051bb0efe3dc"
+      },
+      "v2.5.0": {
         "url": "",
         "md5": "",
         "Segments": [
           {
-            "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.001",
-            "md5": "E2D96868F08F65A4ECF8CB2C121DAB3D"
+            "url": "https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/download/StarRail_2.5.0.7z.001",
+            "md5": "A3BF9C436FF5BB3BFA27068D90D9AB66"
           },
           {
-            "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.002",
-            "md5": "0480F3EC19585D724DEB8B751945A993"
+            "url": "https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/download/StarRail_2.5.0.7z.002",
+            "md5": "B0417E38F0EF071842AAA90282DB0C8C"
           },
           {
-            "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.003",
-            "md5": "4FE94693362752FE70ADB00792C3B93F"
+            "url": "https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/download/StarRail_2.5.0.7z.003",
+            "md5": "03BBB43D259E563D12E39CC66A20ACE3"
           },
           {
-            "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.004",
-            "md5": "6E0B974518409A8B7703F855307D5F90"
+            "url": "https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/download/StarRail_2.5.0.7z.004",
+            "md5": "A677FA6AB8C5411C734674457EE54560"
           },
           {
-            "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.005",
-            "md5": "6E47E5FC7010A64EBD6AB3263A7F4E8D"
+            "url": "https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/download/StarRail_2.5.0.7z.005",
+            "md5": "84CDE4477E96017C6585314867D981D8"
           },
           {
-            "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.006",
-            "md5": "5A3492A7E88A71C98CA2CBAF0E8D10AC"
+            "url": "https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/download/StarRail_2.5.0.7z.006",
+            "md5": "C46CA0855AE9B8045B3A60F413AC67D3"
           },
           {
-            "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.007",
-            "md5": "8F00096ACCE87D020C62D6CAC5EC2232"
-          },
-          {
-            "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.008",
-            "md5": "B80F4EBFE433CB608FB9624B10ED8BC1"
-          },
-          {
-            "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.009",
-            "md5": "A1197B0E01298572A8F8351E59FF6CF6"
-          },
-          {
-            "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.010",
-            "md5": "554FF9D122DBF426CC5B1DFE4FC73FF9"
-          },
-          {
-            "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.011",
-            "md5": "22277C610C8AF7ABF56B96C5D3524F64"
-          },
-          {
-            "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.012",
-            "md5": "B79389CA6379B040CB510A8161C030F2"
+            "url": "https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/download/StarRail_2.5.0.7z.007",
+            "md5": "4A5FF2712562E00918BA5A304653756B"
           }
         ]
+      },
+      "v2.6.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20241011184237_pwgabndGDG6wFvbM/PC/download/StarRail_2.6.0.7z.001",
+            "md5": "7EF32AAB2FD9AA63B2FEECF0291376E5"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20241011184237_pwgabndGDG6wFvbM/PC/download/StarRail_2.6.0.7z.002",
+            "md5": "6A4EB6EDB35120560F0DD4E793D9E5D5"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20241011184237_pwgabndGDG6wFvbM/PC/download/StarRail_2.6.0.7z.003",
+            "md5": "88EA0883F2C9E49C6640B7503CB03104"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20241011184237_pwgabndGDG6wFvbM/PC/download/StarRail_2.6.0.7z.004",
+            "md5": "8A7938B95725382143F91EDF1C5A64AE"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20241011184237_pwgabndGDG6wFvbM/PC/download/StarRail_2.6.0.7z.005",
+            "md5": "B23EA2F86F8A9D9E82ECC6B75A8CB14E"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20241011184237_pwgabndGDG6wFvbM/PC/download/StarRail_2.6.0.7z.006",
+            "md5": "82A2FD07DD19E883492FA076D6E576F0"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20241011184237_pwgabndGDG6wFvbM/PC/download/StarRail_2.6.0.7z.007",
+            "md5": "B801AB7B26E76DF4F5A427F6B102697B"
+          }
+        ]
+      },
+      "v2.7.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20241121152127_vwwTqICBMaheJBUz/PC/download/StarRail_2.7.0.7z.001",
+            "md5": "497471E6E2109A8E092EE907409A0B44"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20241121152127_vwwTqICBMaheJBUz/PC/download/StarRail_2.7.0.7z.002",
+            "md5": "18295603ADDC3E8569A8E28FA7049BC4"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20241121152127_vwwTqICBMaheJBUz/PC/download/StarRail_2.7.0.7z.003",
+            "md5": "469447A95FFB44FD18234023ED9C81D6"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20241121152127_vwwTqICBMaheJBUz/PC/download/StarRail_2.7.0.7z.004",
+            "md5": "1BCA4A597EF0435CF08E1A6B7FE4F167"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20241121152127_vwwTqICBMaheJBUz/PC/download/StarRail_2.7.0.7z.005",
+            "md5": "55D7B57280A06AA1ED2A1B889F7DD866"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20241121152127_vwwTqICBMaheJBUz/PC/download/StarRail_2.7.0.7z.006",
+            "md5": "7631EDEC8CE064F83AA4238DE9B2405D"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20241121152127_vwwTqICBMaheJBUz/PC/download/StarRail_2.7.0.7z.007",
+            "md5": "BF24928684E1BA0B04943D7F54DCCCF4"
+          }
+        ]
+      },
+      "v3.0.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.001",
+            "md5": "E152BED5019063474B0A32C105B9DF9A"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.002",
+            "md5": "6310C6B96FCE6E2065BBA6CD3315702B"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.003",
+            "md5": "54E17727EAC49C6D7D884D7A50E23D7C"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.004",
+            "md5": "27FBF7836BA27835EA3760D4378C88B4"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.005",
+            "md5": "3C30C7EEB4BD183A548987861034B9EC"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.006",
+            "md5": "D1C4A8BA52028E139CF6973D28F26553"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.007",
+            "md5": "5D3EDF6DE12D44FE285D1B1CEC0C35E8"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.008",
+            "md5": "EB958B76F27EE089B26EB8B5DD05CD73"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/download/StarRail_3.0.0.7z.009",
+            "md5": "3D5B6FCAC805C2BF55A53791D072DD31"
+          }
+        ]
+      },
+      "v3.1.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.001",
+            "md5": "964DCCE3A25A620FA8B1B49976208601"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.002",
+            "md5": "5DF870ED0EE3B9872447919E6A9C3907"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.003",
+            "md5": "F8C6C3A024FEC9A506ED03B18B080BF5"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.004",
+            "md5": "1D3225CE0BFA891362171EC815862CA1"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.005",
+            "md5": "7350B2C9D52D75E2D6EADF1B77E81DC0"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.006",
+            "md5": "B3F42F36B97947636A8C58DC18C17824"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.007",
+            "md5": "8275A6341DFFE7FF3D99860BF17A6464"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.008",
+            "md5": "72E9BADF771A29401F263F953B847887"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.009",
+            "md5": "A2A1529EFA75085E51FEB9B0AF8E5267"
+          }
+        ]
+      },
+      "v3.2.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/download/StarRail_3.2.0.7z.001",
+            "md5": "CF42461842E6652EB13B5198B6B0E7EA"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/download/StarRail_3.2.0.7z.002",
+            "md5": "E48F12B3EAA9610227B0CDDB09C9C280"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/download/StarRail_3.2.0.7z.003",
+            "md5": "373591506B318ED8FFF2DE1B0C352428"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/download/StarRail_3.2.0.7z.004",
+            "md5": "5E180FA80A42EBF3414AC3C0C6E402F0"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/download/StarRail_3.2.0.7z.005",
+            "md5": "4612B468BB3A7A6D9562FC678BFD89B5"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/download/StarRail_3.2.0.7z.006",
+            "md5": "1975A6987E7C6F4D368E3F576ED394BB"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/download/StarRail_3.2.0.7z.007",
+            "md5": "426FECEF41AFF0238D5F69CC2B65A876"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/download/StarRail_3.2.0.7z.008",
+            "md5": "14BE28582C01235BCCD8805B7B1EE27D"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/download/StarRail_3.2.0.7z.009",
+            "md5": "3096A3DDC8E48309F32B195279EAC196"
+          }
+        ]
+      },
+      "v3.3.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250509094914_HjVg7xHdYEqPs1R0/PC/download/StarRail_3.3.0.7z.001",
+            "md5": "5A7344D47F3D04B47A23ECC1F908141C"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250509094914_HjVg7xHdYEqPs1R0/PC/download/StarRail_3.3.0.7z.002",
+            "md5": "A8172FD8239BC988C5CB9ED639E75051"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250509094914_HjVg7xHdYEqPs1R0/PC/download/StarRail_3.3.0.7z.003",
+            "md5": "41FF88492E0B8A8258537D1F958B736E"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250509094914_HjVg7xHdYEqPs1R0/PC/download/StarRail_3.3.0.7z.004",
+            "md5": "56E6BB98DB332B7C996ED5015075B6ED"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250509094914_HjVg7xHdYEqPs1R0/PC/download/StarRail_3.3.0.7z.005",
+            "md5": "485431318085591D80F891D08CB2BE18"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250509094914_HjVg7xHdYEqPs1R0/PC/download/StarRail_3.3.0.7z.006",
+            "md5": "82260C544042248B270F26679E4649CE"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250509094914_HjVg7xHdYEqPs1R0/PC/download/StarRail_3.3.0.7z.007",
+            "md5": "EC571287EC96B517756D12A4A664F5E9"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250509094914_HjVg7xHdYEqPs1R0/PC/download/StarRail_3.3.0.7z.008",
+            "md5": "841387EFA4C7FA2DD50ED6DDFB70C684"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250509094914_HjVg7xHdYEqPs1R0/PC/download/StarRail_3.3.0.7z.009",
+            "md5": "7332450C61E7C0843C5EECA11DC22B4F"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250509094914_HjVg7xHdYEqPs1R0/PC/download/StarRail_3.3.0.7z.010",
+            "md5": "EFD17F4E028160D393F9121458A40946"
+          }
+        ]
+      },
+      "v3.4.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.001",
+            "md5": "1E39F7630F647B70FFD014162C5B8722"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.002",
+            "md5": "4C5FB175C73F0BC44B94FFE3DD5369FF"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.003",
+            "md5": "B068EA2F66960BDE598E6306D00E5453"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.004",
+            "md5": "89CEABDD583CB3F02AEEB14DA52E48F3"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.005",
+            "md5": "1A47D14C9E2F1A697ED4FBF70AE74E27"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.006",
+            "md5": "5FE161253E91F046E0DE474C8B92F25F"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.007",
+            "md5": "C7B467BE8B6035CD1F9F09347897561F"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.008",
+            "md5": "35D81AEA32697DAAB4055E50D26699AB"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.009",
+            "md5": "943E9A083EAF319A4BA1CB73049678E5"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.010",
+            "md5": "8392839EA062EE146C868B729EF1029A"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.011",
+            "md5": "0F41F5A0E5267FED9E79843F78D65342"
+          }
+        ]
+      },
+      "v3.5.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.001",
+            "md5": "A252281792EDFF53E2AA155A68003518"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.002",
+            "md5": "777306C7F2004793832314DE8AEA3C9F"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.003",
+            "md5": "DB9D3BAF307D59228525CF43913008A9"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.004",
+            "md5": "8F667B121728F1B2E3CA1B784E8B1C96"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.005",
+            "md5": "04C935E4C8396A88769EA994C38E6A5A"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.006",
+            "md5": "EA85721B488972B8EA705376E5EDE9C7"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.007",
+            "md5": "A3B9C8C978C63548AC560CFDCAF6135C"
+          },
+          {
+            "url": "https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/download/StarRail_3.5.0.7z.008",
+            "md5": "B603C8D14E50B47354CFA34508BA7BD1"
+          }
+        ]
+      },
+      "v3.6.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [{
+          "url": "https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/download/StarRail_3.6.0.7z.001",
+          "md5": "434AF1151404C1ACACAD7079B92D3C5A"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/download/StarRail_3.6.0.7z.002",
+          "md5": "618153DCFB67B74E3661EEA1783B4A4B"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/download/StarRail_3.6.0.7z.003",
+          "md5": "1C224A6DDBE396DAF019AFE12AF6CE62"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/download/StarRail_3.6.0.7z.004",
+          "md5": "106766F011F28E059D73C8D45E87A35A"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/download/StarRail_3.6.0.7z.005",
+          "md5": "CC75329A2A67595825B054A67EE87B0E"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/download/StarRail_3.6.0.7z.006",
+          "md5": "4C84F63C4574B14211249D8301E41289"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/download/StarRail_3.6.0.7z.007",
+          "md5": "37CF29722A770E3ED7C569B7CB45E36D"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/download/StarRail_3.6.0.7z.008",
+          "md5": "C63D736AC567092DF0386189B2AA8149"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/download/StarRail_3.6.0.7z.009",
+          "md5": "7DEA1DEE0BCFAE10847F2134B2F88045"
+        }]
+      },
+      "v3.7.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [{
+          "url": "https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.001",
+          "md5": "0DD3FA1A487216D51BAB795B5711F88B"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.002",
+          "md5": "60741DDD3063B333390E27F5A02CB61E"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.003",
+          "md5": "C59C1008408D9FAB39CAF79E8414DF1B"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.004",
+          "md5": "EFF8F50667AB63934571C023D4387115"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.005",
+          "md5": "D5E8960F0C72B325D504DBF0A196F865"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.006",
+          "md5": "1B490C55678AC7B0FB2AA4367110B661"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.007",
+          "md5": "3168DD8E4999A371E15DFF5076F8F08A"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.008",
+          "md5": "6FB8E713AF52BB718290F25DC33A89E4"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.009",
+          "md5": "3641657B36692C507DF57A8616A28F12"
+        }]
+      },
+      "v3.8.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [{
+          "url": "https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.001",
+          "md5": "315E91E613427193A9A593C8BED90DE5"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.002",
+          "md5": "E47B557051F33ABA037D57160AACAC07"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.003",
+          "md5": "631452C76EB3AA92952767BDE45D1490"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.004",
+          "md5": "7DE5DA0DB1242585340889ACBDBDEFFE"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.005",
+          "md5": "24387778B2B7A71A1DE2707BA1F14972"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.006",
+          "md5": "FBAB766D9AEAD0E352F155CAACC48C5D"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.007",
+          "md5": "96A7C0CA928BB018B43362FAF0249BE9"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.008",
+          "md5": "ACC7A24AC08647ABD257A89BBB511419"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.009",
+          "md5": "D797A47E2F260BA15168AB455175F7D1"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.010",
+          "md5": "2D1DC42C4F811A9E34D863ED979B3EAB"
+        }]
+      },
+      "v4.0.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [{
+          "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/download/StarRail_4.0.0.7z.001",
+          "md5": "1848CDFC89A26F6F8FDA0FE5E3F94205"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/download/StarRail_4.0.0.7z.002",
+          "md5": "880C991096AB80AAEA863FB7CCD9DCB1"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/download/StarRail_4.0.0.7z.003",
+          "md5": "05494947884CAF84C2FACACB4EE365A6"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/download/StarRail_4.0.0.7z.004",
+          "md5": "952E37FDBD1AECF79FEAB2065C1AFA31"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/download/StarRail_4.0.0.7z.005",
+          "md5": "17EB31D4DCB897CC33D499877B19F26F"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/download/StarRail_4.0.0.7z.006",
+          "md5": "13486E8E48AE0927DB8B09FAA6F7D436"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/download/StarRail_4.0.0.7z.007",
+          "md5": "E70999890657DFF710D6B70951FD7DC2"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/download/StarRail_4.0.0.7z.008",
+          "md5": "7C65D268F5BCF433D726953D07F97AAF"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/download/StarRail_4.0.0.7z.009",
+          "md5": "E5652E63DFCE8AEF4271445A9E835767"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/download/StarRail_4.0.0.7z.010",
+          "md5": "158269C18CC3628CCE8636A8C60584BC"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/download/StarRail_4.0.0.7z.011",
+          "md5": "060B617AC53E0D613FB71F65308D3303"
+        }]
+      },
+      "v4.1.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [{
+          "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/download/StarRail_4.1.0.7z.001",
+          "md5": "F3EB167D25874860818CE599CA5DB42D"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/download/StarRail_4.1.0.7z.002",
+          "md5": "E28A488E925D2E205B351D293E2EEF11"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/download/StarRail_4.1.0.7z.003",
+          "md5": "8BFC6390E6696B55729CCCC3D9A58E31"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/download/StarRail_4.1.0.7z.004",
+          "md5": "741D0E623E1D5A77A542E6BAA92F3F6E"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/download/StarRail_4.1.0.7z.005",
+          "md5": "ACA31872DE809713406980FF13905C9A"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/download/StarRail_4.1.0.7z.006",
+          "md5": "7FC37C4CFED3969F9E2336E8459F5AE8"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/download/StarRail_4.1.0.7z.007",
+          "md5": "6ACEFF72DF29FB45430C7C76C96A82C6"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/download/StarRail_4.1.0.7z.008",
+          "md5": "61DC76058E9CD22CE6EC0C85C6DD0C16"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/download/StarRail_4.1.0.7z.009",
+          "md5": "DE8C05189A5E7EF5FF0F31633A03A5A5"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/download/StarRail_4.1.0.7z.010",
+          "md5": "7939906044C0F6FF65A496C72523A299"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/download/StarRail_4.1.0.7z.011",
+          "md5": "0196EDD0E401616D9738E261562D11BB"
+        }]
+      },
+      "v4.2.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [{
+          "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/download/StarRail_4.2.0.7z.001",
+          "md5": "5C82A0CF1E25E658761B7502F72EDC80"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/download/StarRail_4.2.0.7z.002",
+          "md5": "8CB6B14C36069FF93A0FD3FD25BA55DB"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/download/StarRail_4.2.0.7z.003",
+          "md5": "AB4EABAD1B47D8AA4D84CA1785AF7307"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/download/StarRail_4.2.0.7z.004",
+          "md5": "6973317909DDCDCF6E5A1456471341F6"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/download/StarRail_4.2.0.7z.005",
+          "md5": "BE9180E2F518A10BE19A865146159F9B"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/download/StarRail_4.2.0.7z.006",
+          "md5": "8244D621B0DAC41BE9E8410B0BAC0EA4"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/download/StarRail_4.2.0.7z.007",
+          "md5": "C657748643E7B48A4603A429D15E8720"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/download/StarRail_4.2.0.7z.008",
+          "md5": "F9A57EA97A568771AD636729A5ED96CA"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/download/StarRail_4.2.0.7z.009",
+          "md5": "4021E7F05513C93A7A0432A77E52673B"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/download/StarRail_4.2.0.7z.010",
+          "md5": "794B5F0B7175EFBF8E987B2678E30A50"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/download/StarRail_4.2.0.7z.011",
+          "md5": "E01FDBC5F8CEE5E46664E9876749FF26"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/download/StarRail_4.2.0.7z.012",
+          "md5": "94B283C4F858FB70DD63FEA42D4FC591"
+        }]
+      },
+      "v4.3.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [{
+          "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/download/StarRail_4.3.0.7z.001",
+          "md5": "34B3BB5415070DB0D36FB80FF00C7CA8"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/download/StarRail_4.3.0.7z.002",
+          "md5": "1DA561368C9B6CA5A5084C76C0438A6D"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/download/StarRail_4.3.0.7z.003",
+          "md5": "266674BF8E31671B0A872DA43E312727"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/download/StarRail_4.3.0.7z.004",
+          "md5": "8A32CD4BD2ABC23B7CF4F16ACB3355F2"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/download/StarRail_4.3.0.7z.005",
+          "md5": "E132EF47E4BFA9D5E97200136236F4A7"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/download/StarRail_4.3.0.7z.006",
+          "md5": "8F879ABA9C2EEABEF9FECE0EF8A7794C"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/download/StarRail_4.3.0.7z.007",
+          "md5": "36CF1F0A2474421B9C08A1B931939F65"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/download/StarRail_4.3.0.7z.008",
+          "md5": "D8DBF014CA00AA68F7411659A4868B45"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/download/StarRail_4.3.0.7z.009",
+          "md5": "8D9EA895641292A76455383495F49CA5"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/download/StarRail_4.3.0.7z.010",
+          "md5": "62ECC424072A614860EAA14563CF1A99"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/download/StarRail_4.3.0.7z.011",
+          "md5": "431C1A28093F657B6988CD31C51488A6"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/download/StarRail_4.3.0.7z.012",
+          "md5": "C00011096F38D1569394072DD55AD230"
+        }]
+      },
+      "v4.4.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [{
+          "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.001",
+          "md5": "E2D96868F08F65A4ECF8CB2C121DAB3D"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.002",
+          "md5": "0480F3EC19585D724DEB8B751945A993"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.003",
+          "md5": "4FE94693362752FE70ADB00792C3B93F"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.004",
+          "md5": "6E0B974518409A8B7703F855307D5F90"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.005",
+          "md5": "6E47E5FC7010A64EBD6AB3263A7F4E8D"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.006",
+          "md5": "5A3492A7E88A71C98CA2CBAF0E8D10AC"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.007",
+          "md5": "8F00096ACCE87D020C62D6CAC5EC2232"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.008",
+          "md5": "B80F4EBFE433CB608FB9624B10ED8BC1"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.009",
+          "md5": "A1197B0E01298572A8F8351E59FF6CF6"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.010",
+          "md5": "554FF9D122DBF426CC5B1DFE4FC73FF9"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.011",
+          "md5": "22277C610C8AF7ABF56B96C5D3524F64"
+        },
+        {
+          "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.012",
+          "md5": "B79389CA6379B040CB510A8161C030F2"
+        }]
       }
     }
   },
   "VoicePack_Japanese": {
     "version": {
+      "v1.5.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20231103104955_cqUaz5ynWxXulVjV/PC/Japanese.zip",
+        "md5": "5a3714636e54682c5b50d45959e53278"
+      },
+      "v1.6.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20231215090631_Lj4TDfHZUY5Fy9ie/PC/Japanese.zip",
+        "md5": "ea158062f4638c257c64c459b1f5963d"
+      },
+      "v2.0.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240126105613_xi8FVxCWfDpjdC2r/PC/Japanese.zip",
+        "md5": "42bc301b19e51b0ff72fb232b3043137"
+      },
+      "v2.1.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240315112058_ccCKIhL7nSrowkqT/PC/Japanese.zip",
+        "md5": "f9b0c514915369f3b9155127684f8d51"
+      },
+      "v2.2.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240425223839_3VWucOmMCTBJ9kl2/PC/Japanese.zip",
+        "md5": "b2bfda217280526652e04afb4253bcd0"
+      },
+      "v2.3.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240608160515_WaNfKntJ7dt6k6rt/PC/Japanese.zip",
+        "md5": "2a47b18df89fa23075f5ac9305b6ab0c"
+      },
+      "v2.4.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240719103540_r670trRHzhCRTAiW/PC/Japanese.zip",
+        "md5": "6ae3cd112836fd91959a825dc4ad42bd"
+      },
+      "v2.5.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Japanese.7z",
+        "md5": "081bdff8e5adca9bf2acb4fa914192d1"
+      },
+      "v2.6.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20241010190408_dBpHKR9R4M5ENpDG/PC/Japanese.7z",
+        "md5": "e7cce8f8a4f76cc9cb1ef4272573adb7"
+      },
+      "v2.7.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20241121152127_vwwTqICBMaheJBUz/PC/Japanese.7z",
+        "md5": "650fec0def093340aa92610d45422644"
+      },
+      "v3.0.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/Japanese.7z",
+        "md5": "fa960bd2930b80684abde2ca9d41bb4b"
+      },
+      "v3.1.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/Japanese.7z",
+        "md5": "ca789d7b92a7958d4089242f2933a210"
+      },
+      "v3.2.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/Japanese.7z",
+        "md5": "7bfd349dd2e6225e05c6d6c949e6f313"
+      },
+      "v3.3.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250509094914_HjVg7xHdYEqPs1R0/PC/Japanese.7z",
+        "md5": "9d5ac9802eb7f2da89b4420a934a3b4a"
+      },
+      "v3.4.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/Japanese.7z",
+        "md5": "f689a20c1a9014a4ff738835747d2a79"
+      },
+      "v3.5.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/Japanese.7z",
+        "md5": "2b64f1da4b3dad8dabe5862d6635561e"
+      },
+      "v3.6.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/Japanese.7z",
+        "md5": "0aa022f8d605d20f182f815c4fae1e6d"
+      },
+      "v3.7.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/Japanese.7z",
+        "md5": "5dfaaa057d95fa734af25f9e7635ab5c"
+      },
+      "v3.8.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/Japanese.7z",
+        "md5": "27a7ca1075928b9e9671fce65d441aa8"
+      },
+      "v4.0.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/Japanese.7z",
+        "md5": "94484a384df77a9d388e09a4873a2aeb"
+      },
+      "v4.1.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/Japanese.7z",
+        "md5": "a1063866268ffb9a3aa52d9994ff282a"
+      },
+      "v4.2.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/Japanese.7z",
+        "md5": "85fc517c85c8dfb055b25304052d1075"
+      },
+      "v4.3.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/Japanese.7z",
+        "md5": "391fdec454f34294b2621886cd62b6e6"
+      },
       "v4.4.0": {
         "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/Japanese.7z",
         "md5": "75004975d902def7aab2e40f4c9cfe9c"
@@ -67,6 +899,98 @@
   },
   "VoicePack_English": {
     "version": {
+      "v1.5.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20231103104955_cqUaz5ynWxXulVjV/PC/English.zip",
+        "md5": "cc57a7ec5e4fd553eea14a598792492b"
+      },
+      "v1.6.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20231215090631_Lj4TDfHZUY5Fy9ie/PC/English.zip",
+        "md5": "593d5cc23bd0d03c7f70a08e572b890e"
+      },
+      "v2.0.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240126105613_xi8FVxCWfDpjdC2r/PC/English.zip",
+        "md5": "41eb4b50d668a349fab3cb4b5ac1f75e"
+      },
+      "v2.1.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240315112058_ccCKIhL7nSrowkqT/PC/English.zip",
+        "md5": "1f6a530b341f4b82f612fe6004b1bdbf"
+      },
+      "v2.2.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240425223839_3VWucOmMCTBJ9kl2/PC/English.zip",
+        "md5": "5c1e42dfd9911c2d45eb34d852a79919"
+      },
+      "v2.3.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240608160515_WaNfKntJ7dt6k6rt/PC/English.zip",
+        "md5": "e342e0441786ee64edf3367fe5df8bac"
+      },
+      "v2.4.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240719103540_r670trRHzhCRTAiW/PC/English.zip",
+        "md5": "12e458f26cfff3632e0ad65a57941205"
+      },
+      "v2.5.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/English.7z",
+        "md5": "bdf7c0146584519310c11562909c3a4d"
+      },
+      "v2.6.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20241010190408_dBpHKR9R4M5ENpDG/PC/English.7z",
+        "md5": "ff592214749c7b10352cd8dd607921b8"
+      },
+      "v2.7.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20241121152127_vwwTqICBMaheJBUz/PC/English.7z",
+        "md5": "0e628f777e54dfbd74e8a82cc8eed5e4"
+      },
+      "v3.0.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/English.7z",
+        "md5": "07c71bd4653218640b2fdeab5fc7499f"
+      },
+      "v3.1.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/English.7z",
+        "md5": "6590989fd52a71cb8a7c50836174935f"
+      },
+      "v3.2.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/English.7z",
+        "md5": "757b5ecb96b0275bde64e06f90308daf"
+      },
+      "v3.3.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250509094914_HjVg7xHdYEqPs1R0/PC/English.7z",
+        "md5": "5f2c5ff4854f01ff207d65b2e6d0bacf"
+      },
+      "v3.4.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/English.7z",
+        "md5": "a21b52f90533abed0a4d1a4b2d6da6d4"
+      },
+      "v3.5.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/English.7z",
+        "md5": "857a68db683a5f44145668fb39a33b4a"
+      },
+      "v3.6.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/English.7z",
+        "md5": "77b8739f092b663391f3324f97c017b0"
+      },
+      "v3.7.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/English.7z",
+        "md5": "1d871f3ec728f0cb19324b10f2eea98e"
+      },
+      "v3.8.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/English.7z",
+        "md5": "4c39d0c1649fcdcfd490a342e2580acd"
+      },
+      "v4.0.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/English.7z",
+        "md5": "c5b268465760542bb0cce7a7ad659ee6"
+      },
+      "v4.1.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/English.7z",
+        "md5": "6a3598da6602b5fa6972a75531f33ce0"
+      },
+      "v4.2.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/English.7z",
+        "md5": "2fb94b27c38ae26b02c5c1352e40fae0"
+      },
+      "v4.3.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/English.7z",
+        "md5": "47346fa9a47e1bd50571978e837776f4"
+      },
       "v4.4.0": {
         "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/English.7z",
         "md5": "5b376824fa32125fb387e20a42bc8f16"
@@ -75,6 +999,98 @@
   },
   "VoicePack_Chinese": {
     "version": {
+      "v1.5.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20231103104955_cqUaz5ynWxXulVjV/PC/Chinese.zip",
+        "md5": "5b9e8df354d5fce4f9c3d2e06c4f8756"
+      },
+      "v1.6.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20231215090631_Lj4TDfHZUY5Fy9ie/PC/Chinese.zip",
+        "md5": "10d364567cc5a5f0ccc80c4250c19eed"
+      },
+      "v2.0.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240126105613_xi8FVxCWfDpjdC2r/PC/Chinese.zip",
+        "md5": "785d6d79fcdaa0cdb847718ad17a4f82"
+      },
+      "v2.1.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240315112058_ccCKIhL7nSrowkqT/PC/Chinese.zip",
+        "md5": "5737ad765fa7b6eac8210ee4f2eeeb39"
+      },
+      "v2.2.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240425223839_3VWucOmMCTBJ9kl2/PC/Chinese.zip",
+        "md5": "df10fae26649d570744d49f6e3d31a20"
+      },
+      "v2.3.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240608160515_WaNfKntJ7dt6k6rt/PC/Chinese.zip",
+        "md5": "a67f7c4729f78d37444ca63bcd29996a"
+      },
+      "v2.4.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240719103540_r670trRHzhCRTAiW/PC/Chinese.zip",
+        "md5": "26a629e6c6ad82ecd1c82eb83e3d281a"
+      },
+      "v2.5.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Chinese.7z",
+        "md5": "d806c8f383ceaf3fd3989606ff1d409e"
+      },
+      "v2.6.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20241010190408_dBpHKR9R4M5ENpDG/PC/Chinese.7z",
+        "md5": "6fa94ddffb28e5a61ad068fd3dc22646"
+      },
+      "v2.7.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20241121152127_vwwTqICBMaheJBUz/PC/Chinese.7z",
+        "md5": "7dae4e22bb5a94d1f16c16be2bb1e945"
+      },
+      "v3.0.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/Chinese.7z",
+        "md5": "a03ff7c2c5fad0dd23f38b1ea7fde7b9"
+      },
+      "v3.1.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/Chinese.7z",
+        "md5": "2714ee8babece40ca8bbb180a94a2069"
+      },
+      "v3.2.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/Chinese.7z",
+        "md5": "b366736761b91b0ae5d16f4296e21278"
+      },
+      "v3.3.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250509094914_HjVg7xHdYEqPs1R0/PC/Chinese.7z",
+        "md5": "7b85a65d6d14e9380d8c4b1a2c4e7d9a"
+      },
+      "v3.4.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/Chinese.7z",
+        "md5": "f3b087316b0a9163bfad4324e22abbb2"
+      },
+      "v3.5.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/Chinese.7z",
+        "md5": "28fa352155afbac10678d7a6f716a910"
+      },
+      "v3.6.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/Chinese.7z",
+        "md5": "f738e806b1fa4d4a466a8e8f7f06fb8b"
+      },
+      "v3.7.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/Chinese.7z",
+        "md5": "56cfb82ddb58f3df83f291ec71b783da"
+      },
+      "v3.8.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/Chinese.7z",
+        "md5": "9b74f41aa5c0da28c110596c732e6c29"
+      },
+      "v4.0.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/Chinese.7z",
+        "md5": "54cb821f1068c8512d8475343758824f"
+      },
+      "v4.1.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/Chinese.7z",
+        "md5": "6b3594b9f89adbc3c5667dbc7b0cb896"
+      },
+      "v4.2.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/Chinese.7z",
+        "md5": "6df4a868ad0fe4b5e09b517091337bb8"
+      },
+      "v4.3.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/Chinese.7z",
+        "md5": "0adef6189d707b767947fbbd84d90721"
+      },
       "v4.4.0": {
         "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/Chinese.7z",
         "md5": "32b0f0003dc54c37ce36be354fc1013a"
@@ -83,6 +1099,98 @@
   },
   "VoicePack_Korean": {
     "version": {
+      "v1.5.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20231103104955_cqUaz5ynWxXulVjV/PC/Korean.zip",
+        "md5": "93cc9b33916bab709dc05490e4601e74"
+      },
+      "v1.6.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20231215090631_Lj4TDfHZUY5Fy9ie/PC/Korean.zip",
+        "md5": "d54988b95af7d35f689ccb82d5b6cd1b"
+      },
+      "v2.0.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240126105613_xi8FVxCWfDpjdC2r/PC/Korean.zip",
+        "md5": "5d4d3f4829cd69dcee13b11b58310c35"
+      },
+      "v2.1.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240315112058_ccCKIhL7nSrowkqT/PC/Korean.zip",
+        "md5": "5443d68b0a5adb03ab92c8fb4eb7df24"
+      },
+      "v2.2.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240425223839_3VWucOmMCTBJ9kl2/PC/Korean.zip",
+        "md5": "01cf2ac132200323eeaa43d7be7c8456"
+      },
+      "v2.3.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240608160515_WaNfKntJ7dt6k6rt/PC/Korean.zip",
+        "md5": "4b76f48d141cffb6daf953e7d068afb3"
+      },
+      "v2.4.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240719103540_r670trRHzhCRTAiW/PC/Korean.zip",
+        "md5": "0e93c9b3e6a272f3ed43955b84f8acb2"
+      },
+      "v2.5.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Korean.7z",
+        "md5": "d8e5df1a5f358b4e1afdc4bf6e8414df"
+      },
+      "v2.6.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20241010190408_dBpHKR9R4M5ENpDG/PC/Korean.7z",
+        "md5": "dc1441ccea9ba1bfabb6cea126ad81ab"
+      },
+      "v2.7.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20241121152127_vwwTqICBMaheJBUz/PC/Korean.7z",
+        "md5": "03b7db228a16326ec6c9b718670c6edb"
+      },
+      "v3.0.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250102101825_HCrZMhsVFjgzlMQj/PC/Korean.7z",
+        "md5": "f29d07a8206b9c8a95c264fc0a423905"
+      },
+      "v3.1.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/Korean.7z",
+        "md5": "9b13080c0b4d92875ed8356c740c4af2"
+      },
+      "v3.2.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/Korean.7z",
+        "md5": "39eea79ceb18f92c9756a9691c1bdf62"
+      },
+      "v3.3.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250509094914_HjVg7xHdYEqPs1R0/PC/Korean.7z",
+        "md5": "85d74f902dbb6d9335b67e5b4ff89a60"
+      },
+      "v3.4.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/Korean.7z",
+        "md5": "7ad66cee8d13adc8b06853197077649c"
+      },
+      "v3.5.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250801100214_0zy6TF7pFIyqvbI0/PC/Korean.7z",
+        "md5": "6347f4fde107ce6286b5d3d5db520c55"
+      },
+      "v3.6.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20250913164141_tr7lKfbYCfL2GUSk/PC/Korean.7z",
+        "md5": "8433ab3620d36ece5c955f9f1731e31d"
+      },
+      "v3.7.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/Korean.7z",
+        "md5": "a2da0d9364736abfa124a7a9d32d72df"
+      },
+      "v3.8.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/Korean.7z",
+        "md5": "0410c02339028adec2d3178c8e0cda42"
+      },
+      "v4.0.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260206151452_frX9H6Wx2FMYNqDa/PC/Korean.7z",
+        "md5": "bbd06db3722a9444511fb7fb510deded"
+      },
+      "v4.1.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260313161327_9EYXPcUws8hcm3Ol/PC/Korean.7z",
+        "md5": "4a1776335d81b1ab752e032a61d44c22"
+      },
+      "v4.2.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260416111610_HV99uSYDoNmz8gCM/PC/Korean.7z",
+        "md5": "1b528938913e00597f399ea9a1359f65"
+      },
+      "v4.3.0": {
+        "url": "https://autopatchos.starrails.com/client/download/20260523104035_nkW7eqYmT6IYh6rg/PC/Korean.7z",
+        "md5": "ee050d991b602583e8a04fb5f4c7cc63"
+      },
       "v4.4.0": {
         "url": "https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/Korean.7z",
         "md5": "266ce15f02a01eed5aeb2c06ea1c97d6"
@@ -91,7 +1199,127 @@
   },
   "PackageDiff": {
     "version": {
-      "4.3.0>4.4.0": {
+      "v1.0.5>1.1.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.0.5_1.1.0_hdiff_9czqxj0PVA6wltFp.zip",
+        "md5": "EDBC4E431730DC2E3EA5B500D93051DD"
+      },
+      "v1.0.5>1.2.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.0.5_1.2.0_hdiff_R9c5WrVJ6PZqAhQ1.zip",
+        "md5": "0D3EDB2BDE786D2984E31D42D43DC43A"
+      },
+      "v1.1.0>1.2.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.1.0_1.2.0_hdiff_SJqF73LhiQrsv2cU.zip",
+        "md5": "198D1263E6EDAB53A0117EDBD7A237DC"
+      },
+      "v1.1.0>1.3.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.1.0_1.3.0_hdiff_hyR3qHOBuUAblPZV.zip",
+        "md5": "0BD7283F2A263E91D944098A880106DF"
+      },
+      "v1.2.0>1.3.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.2.0_1.3.0_hdiff_n78UaLKGeNhJMHiQ.zip",
+        "md5": "3A96C80B61A2DDA1CC547F19CA1F3EB3"
+      },
+      "v1.2.0>1.4.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.2.0_1.4.0_hdiff_M6uocCepODd3Ba4F.zip",
+        "md5": "BF840714F42169417D4E2A0C15145A93"
+      },
+      "v1.3.0>1.4.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.3.0_1.4.0_hdiff_anBAclTh9gfx7Lu6.zip",
+        "md5": "1C589A899F78EEFA656402186554A6F0"
+      },
+      "v1.4.0>1.5.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.4.0_1.5.0_hdiff_VY6cEUXfgnhjZPKi.zip",
+        "md5": "F1326BB44C951A16566895396C1BD63B"
+      },
+      "v1.5.0>1.6.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.5.0_1.6.0_hdiff_g10Zh3tE9jFnYpzC.zip",
+        "md5": "7C51E7DF3DCEAD0F15D89C2F64B03F38"
+      },
+      "v1.6.0>2.0.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.6.0_2.0.0_hdiff_xlnMFwQ893VOqgv4.zip",
+        "md5": "6F85B5FE12620EF2187F3DBDA067D8F1"
+      },
+      "v2.0.0>2.1.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_2.0.0_2.1.0_hdiff_KGdFk3qyvf4eYWCz.zip",
+        "md5": "EF3982BAE5693BAA472A377C00BEA683"
+      },
+      "v2.1.0>2.2.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/game_2.1.0_2.2.0_hdiff_oAD65M4PktiBCKp3.zip",
+        "md5": "68F29FF85ADFF63F6EB047B95F8C112D"
+      },
+      "v2.2.0>2.3.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_2.2.0_2.3.0_hdiff_WwevYToSIVWLRkDA.zip",
+        "md5": "e1131485bba22f1721f0aa6b47af1c0b"
+      },
+      "v2.3.0>2.4.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_2.3.0_2.4.0_hdiff_LtSmsraRrcMxgDYI.zip",
+        "md5": "b784c1223c28fcda1e6cee3dc4a26f6e"
+      },
+      "v2.4.0>2.5.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_2.4.0_2.5.0_hdiff_nLoQceKNfseLLqIF.zip",
+        "md5": "4434b6e6da0149a82fd26ea0634bf8d3"
+      },
+      "v2.5.0>2.6.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_2.5.0_2.6.0_hdiff_fEJtiFyVrFDUwTFc.7z",
+        "md5": "7b9f436ae0851311536384179fd7de03"
+      },
+      "v2.6.0>2.7.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_2.6.0_2.7.0_hdiff_CGRLYoQxMJnwpwSt.7z",
+        "md5": "7aacabf48e6eee7d7f226ea69ae81283"
+      },
+      "v2.7.0>3.0.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_2.7.0_3.0.0_hdiff_IccPVrnPTaCKPnOg.7z",
+        "md5": "78a9403d9e2cc3f35ad8ee7f939ab18c"
+      },
+      "v3.0.0>3.1.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.0.0_3.1.0_hdiff_vOGoBfmLkQqLetkq.7z",
+        "md5": "54373708219c819a7f15b259cea5c07b"
+      },
+      "v3.1.0>3.2.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.1.0_3.2.0_hdiff_nwqBoBJTfiCBfuGe.7z",
+        "md5": "f1c1ce4f485e5cb936ca0877dad0a959"
+      },
+      "v3.2.0>3.3.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.2.0_3.3.0_hdiff_fiFudEaRsMzWHusk.7z",
+        "md5": "b24990abca5636f46b8e0ba51a6edccb"
+      },
+      "v3.3.0>3.4.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.3.0_3.4.0_hdiff_ncZjrgLEEuzXbWWW.7z",
+        "md5": "44718bdc2bbf27a49e858c014f920460"
+      },
+      "v3.4.0>3.5.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.4.0_3.5.0_hdiff_SyiiunQLNVlWgyFX.7z",
+        "md5": "9aa634ea3495d36d2c4f70e6b242d4c9"
+      },
+      "v3.5.0>3.6.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.5.0_3.6.0_hdiff_XMmBzxlycWbxumyx.7z",
+        "md5": "ec2dd4ba59d2d2d0e67591c41c7fa644"
+      },
+      "v3.6.0>3.7.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.6.0_3.7.0_hdiff_VPZKeDpLeutzfNJZ.7z",
+        "md5": "e2c5df490512ee025019d17365ad7813"
+      },
+      "v3.7.0>3.8.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.7.0_3.8.0_hdiff_KiKnxNqiDaRpvwmf.7z",
+        "md5": "3cc5a64cec6cd63838b42c6967b5d5e4"
+      },
+      "v3.8.0>4.0.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.8.0_4.0.0_hdiff_KNLhxYDSijEzZSlS.7z",
+        "md5": "b3c1608db8dbc40635ce9bf92a457886"
+      },
+      "v4.0.0>4.1.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_4.0.0_4.1.0_hdiff_xvkUBFdUirbKjhAn.7z",
+        "md5": "bbd96a4a027d5b6854b6bb1715c597fb"
+      },
+      "v4.1.0>4.2.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_4.1.0_4.2.0_hdiff_XZfiNWSvsDSezaov.7z",
+        "md5": "2c59bdfd998ae43e3ee14531e5422dde"
+      },
+      "v4.2.0>4.3.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_4.2.0_4.3.0_hdiff_aQUQkeWXaXejWwQG.7z",
+        "md5": "eb8af287de26f87e3bbbd304109d0234"
+      },
+      "v4.3.0>4.4.0": {
         "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/game_4.3.0_4.4.0_hdiff_DfvdjuyyZStZvKfL.7z",
         "md5": "f452f0f543b6298582c504d936710618"
       }
@@ -99,7 +1327,95 @@
   },
   "VoicePackDiff_Japanese": {
     "version": {
-      "4.3.0>4.4.0": {
+      "v1.5.0>1.6.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/ja-jp_1.5.0_1.6.0_hdiff_koxSayhY4r3vK0cI.zip",
+        "md5": "9D51443EF67A24DDC5D8E89565DBAC96"
+      },
+      "v1.6.0>2.0.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/ja-jp_1.6.0_2.0.0_hdiff_FnaulGBjzkOTEPqR.zip",
+        "md5": "8A01CDCE9608D33B57D5AB5C758C020B"
+      },
+      "v2.0.0>2.1.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/ja-jp_2.0.0_2.1.0_hdiff_m4tcYvbVFShTAyKM.zip",
+        "md5": "A937B81A8B8A5289BD5BD5A2521F7F14"
+      },
+      "v2.1.0>2.2.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/ja-jp_2.1.0_2.2.0_hdiff_UYopcPQhAblIvFWJ.zip",
+        "md5": "58B3A46FAA2B17BD490C12241A1FFEBB"
+      },
+      "v2.2.0>2.3.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_2.2.0_2.3.0_hdiff_lLfHxWLEsHrwcKPJ.zip",
+        "md5": "ed935ddcbafa6ddb54a4f0b28cebe0fe"
+      },
+      "v2.3.0>2.4.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_2.3.0_2.4.0_hdiff_ZHDOShRDwKxftYci.zip",
+        "md5": "590c595c481f48959fd2a11bd6fba6df"
+      },
+      "v2.4.0>2.5.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_2.4.0_2.5.0_hdiff_qualQAejXaBJlMxW.zip",
+        "md5": "bc1a40cc40be9b16b76c5d1b3d87134f"
+      },
+      "v2.5.0>2.6.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_2.5.0_2.6.0_hdiff_etHwbxJLeKQtXxBH.7z",
+        "md5": "00e607309a865bc5e751a22dc8885886"
+      },
+      "v2.6.0>2.7.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_2.6.0_2.7.0_hdiff_kKIsyaKQnugHETDw.7z",
+        "md5": "784416fed10860ab8274e901b44d2ed8"
+      },
+      "v2.7.0>3.0.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_2.7.0_3.0.0_hdiff_PWpEWtkENfpvucDb.7z",
+        "md5": "089795aee382eb3b43314a249174a63e"
+      },
+      "v3.0.0>3.1.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_3.0.0_3.1.0_hdiff_OuUvtMAowfVEdcHs.7z",
+        "md5": "bd0a0ff53fb939a4544db56ea141b74f"
+      },
+      "v3.1.0>3.2.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_3.1.0_3.2.0_hdiff_zECvovFzvhzVLQoy.7z",
+        "md5": "fdde142beceabaada04f084bee168427"
+      },
+      "v3.2.0>3.3.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_3.2.0_3.3.0_hdiff_IkinuIclJHpFCXsS.7z",
+        "md5": "09c8991d28ead40e501e72ad0508cb74"
+      },
+      "v3.3.0>3.4.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_3.3.0_3.4.0_hdiff_VjKynNjNnSHPxadp.7z",
+        "md5": "bc0f9d7fd31bfd1c590ba367ab99f26d"
+      },
+      "v3.4.0>3.5.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_3.4.0_3.5.0_hdiff_HmrJbkeBVUtgBTYS.7z",
+        "md5": "ad898390ccc5bd9d79c167b9a232b22c"
+      },
+      "v3.5.0>3.6.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_3.5.0_3.6.0_hdiff_wkaTYuKrqOrjjJhz.7z",
+        "md5": "f67c8c4aa2cfb703f893cb03c5d93ef8"
+      },
+      "v3.6.0>3.7.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_3.6.0_3.7.0_hdiff_xzaZAiDFByDkkaEm.7z",
+        "md5": "689baa0e31a54ab4080e8bd1f821a622"
+      },
+      "v3.7.0>3.8.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_3.7.0_3.8.0_hdiff_VlRamHsmcpgkyBVx.7z",
+        "md5": "4e1394d510a9b1f86d7b6be07b352633"
+      },
+      "v3.8.0>4.0.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_3.8.0_4.0.0_hdiff_oQxfMpcTQbHXiKtz.7z",
+        "md5": "5e5a9297bf03ac9a8fb106750de5b5d5"
+      },
+      "v4.0.0>4.1.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_4.0.0_4.1.0_hdiff_jlKlIBpSLRpFClMw.7z",
+        "md5": "2540ae50dfd1e9c556cd5231f1ae92c3"
+      },
+      "v4.1.0>4.2.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_4.1.0_4.2.0_hdiff_mdsNLNltcJMJtGTv.7z",
+        "md5": "a0dc7b2ed7f73ed9058673fde7fb43f6"
+      },
+      "v4.2.0>4.3.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_4.2.0_4.3.0_hdiff_bBWhwgkdgDDiTWdZ.7z",
+        "md5": "a0deafa3b5c83df4607317021b8df926"
+      },
+      "v4.3.0>4.4.0": {
         "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_4.3.0_4.4.0_hdiff_ogXfMIwSrFGuJUFB.7z",
         "md5": "cb859eaf61b69e21ef00a35ee84dda98"
       }
@@ -107,7 +1423,95 @@
   },
   "VoicePackDiff_English": {
     "version": {
-      "4.3.0>4.4.0": {
+      "v1.5.0>1.6.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/en-us_1.5.0_1.6.0_hdiff_GT7Ye2jO0WasndLu.zip",
+        "md5": "3267E3E45F409D829EA5626002C5D2BE"
+      },
+      "v1.6.0>2.0.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/en-us_1.6.0_2.0.0_hdiff_lvdjy6tR9LzVxFXk.zip",
+        "md5": "30B3E71CA92A880F836D46A98DD074D3"
+      },
+      "v2.0.0>2.1.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/en-us_2.0.0_2.1.0_hdiff_H9An1j0dDBS4MXzZ.zip",
+        "md5": "D981DCA5B2CA7CFA54E337A5C1E3ACCB"
+      },
+      "v2.1.0>2.2.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/en-us_2.1.0_2.2.0_hdiff_XHEKJFzq6RamGMO5.zip",
+        "md5": "3CE49160E26F71CCC973F69A24A39A9A"
+      },
+      "v2.2.0>2.3.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_2.2.0_2.3.0_hdiff_IIqIrAnQHWgoHAvv.zip",
+        "md5": "cdfb99e14b9a63517190ffb4e7fed04e"
+      },
+      "v2.3.0>2.4.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_2.3.0_2.4.0_hdiff_sOsaVOAnBhUktuwc.zip",
+        "md5": "15a43b5a6935cde14516f42380eb5ac3"
+      },
+      "v2.4.0>2.5.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_2.4.0_2.5.0_hdiff_QIOJHHxEiVLLsdXs.zip",
+        "md5": "f921d88aa7f491e5b993ecc24cfc1e25"
+      },
+      "v2.5.0>2.6.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_2.5.0_2.6.0_hdiff_hnDoBPHwpNOzmOyn.7z",
+        "md5": "4466236024a6f7f4faff6a4027739ef8"
+      },
+      "v2.6.0>2.7.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_2.6.0_2.7.0_hdiff_TznQHPVOeONTYkJG.7z",
+        "md5": "c8137d1e6caedb0f9d4ebc97a3fb797b"
+      },
+      "v2.7.0>3.0.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_2.7.0_3.0.0_hdiff_RqzAGCJqEIGoDBor.7z",
+        "md5": "7f8dfbd757c016491738ec0257621140"
+      },
+      "v3.0.0>3.1.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_3.0.0_3.1.0_hdiff_bPvQrSmZRyklzAfl.7z",
+        "md5": "d0aebbfa4d8495f24b57604f34559850"
+      },
+      "v3.1.0>3.2.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_3.1.0_3.2.0_hdiff_NzaoRFRSDYXrjFhR.7z",
+        "md5": "4b7b330c1d025071b4feb747106d7d07"
+      },
+      "v3.2.0>3.3.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_3.2.0_3.3.0_hdiff_VBuCznAXOBWakgxP.7z",
+        "md5": "1b950777eb86cab2d97d1f7fa3f6f857"
+      },
+      "v3.3.0>3.4.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_3.3.0_3.4.0_hdiff_XGgMIEOilbuMsEbp.7z",
+        "md5": "dee449917a858da1ab9051dea95a0c37"
+      },
+      "v3.4.0>3.5.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_3.4.0_3.5.0_hdiff_RlnUAvCdTVksENDL.7z",
+        "md5": "b4bce00687e1a4a3e535a7a51a2024f0"
+      },
+      "v3.5.0>3.6.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_3.5.0_3.6.0_hdiff_xzCoJhbqimBNjpxt.7z",
+        "md5": "83ec816810ffb328c70eb25c86770fad"
+      },
+      "v3.6.0>3.7.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_3.6.0_3.7.0_hdiff_PApwXAakzPVgqvLj.7z",
+        "md5": "1c4987da4411d4169131e647df323f43"
+      },
+      "v3.7.0>3.8.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_3.7.0_3.8.0_hdiff_OXxQQUcSCXVpBhwf.7z",
+        "md5": "e16402c9b3c9b8ac32712dd8acb3a537"
+      },
+      "v3.8.0>4.0.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_3.8.0_4.0.0_hdiff_MbLtFBCnrPHifoEL.7z",
+        "md5": "ce232836ce952c572d1852baf6381ee3"
+      },
+      "v4.0.0>4.1.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_4.0.0_4.1.0_hdiff_onQOZsbZUSMXxqsB.7z",
+        "md5": "0fad41625391da103eef8dd48a2ab571"
+      },
+      "v4.1.0>4.2.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_4.1.0_4.2.0_hdiff_cExywTvcSLhyvikP.7z",
+        "md5": "2f8da4014c999e41414068517e9970d4"
+      },
+      "v4.2.0>4.3.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_4.2.0_4.3.0_hdiff_WMSjUttbJvkxLwHv.7z",
+        "md5": "2740f62ece862930435bfe04c7cccb81"
+      },
+      "v4.3.0>4.4.0": {
         "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_4.3.0_4.4.0_hdiff_AvVBHumYjUCykkeT.7z",
         "md5": "a9ff348408bf80203742ae111e58c05a"
       }
@@ -115,7 +1519,139 @@
   },
   "VoicePackDiff_Chinese": {
     "version": {
-      "4.3.0>4.4.0": {
+      "v1.5.0>1.6.0.zh-cn": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/zh-cn_1.5.0_1.6.0_hdiff_3avqXCwm1DjF5nEY.zip",
+        "md5": "970DD0BD7CDC8B2BE767624639C4EFC0"
+      },
+      "v1.5.0>1.6.0.zh-tw": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/zh-tw_1.5.0_1.6.0_hdiff_tpSfkaFci28GVs7g.zip",
+        "md5": "FD04549AAD3BDD79079A014A85443391"
+      },
+      "v1.6.0>2.0.0.zh-cn": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/zh-cn_1.6.0_2.0.0_hdiff_1hWT6VLqD8tvIYac.zip",
+        "md5": "BF051B98DA5248C39D9629965E8D76A2"
+      },
+      "v1.6.0>2.0.0.zh-tw": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/zh-tw_1.6.0_2.0.0_hdiff_W4VSdwA5lIxYgLPK.zip",
+        "md5": "0585968B9580DBF990D06B41FA2388BA"
+      },
+      "v2.0.0>2.1.0.zh-cn": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/zh-cn_2.0.0_2.1.0_hdiff_eaKXmEoGYjADIQwP.zip",
+        "md5": "BF20969DFF36380E940018A0F7AD84BD"
+      },
+      "v2.0.0>2.1.0.zh-tw": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/zh-tw_2.0.0_2.1.0_hdiff_oBEvD0mikIOdqMK8.zip",
+        "md5": "CFB230C9CE95A53D010F462ABC95521E"
+      },
+      "v2.1.0>2.2.0.zh-cn": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/zh-cn_2.1.0_2.2.0_hdiff_gSVHsvjrLFw8R5Y6.zip",
+        "md5": "21E27164693B881FD249BE8C954C69DC"
+      },
+      "v2.1.0>2.2.0.zh-tw": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/zh-tw_2.1.0_2.2.0_hdiff_1KkNeHw7psuA6iYr.zip",
+        "md5": "DF4B619F9578788CADFCB083451E58F2"
+      },
+      "v2.2.0>2.3.0.zh-cn": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_2.2.0_2.3.0_hdiff_LRjKxodieEGIvihp.zip",
+        "md5": "1486ab2fcafe10f6570bd94213350851"
+      },
+      "v2.2.0>2.3.0.zh-tw": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-tw_2.2.0_2.3.0_hdiff_CwllgevcmHwxhzDo.zip",
+        "md5": "24543e30e1b87513958e23764358e1b1"
+      },
+      "v2.3.0>2.4.0.zh-cn": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_2.3.0_2.4.0_hdiff_QfbbvbqbQgRHIYWB.zip",
+        "md5": "426c61ba599ce5cbac565edd6dcabf07"
+      },
+      "v2.3.0>2.4.0.zh-tw": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-tw_2.3.0_2.4.0_hdiff_OujSdoVCbKYJxfBE.zip",
+        "md5": "a1c3951a5eb2dd3455a082aba54c61c0"
+      },
+      "v2.4.0>2.5.0.zh-cn": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_2.4.0_2.5.0_hdiff_rYwEpnnswKdxIFeU.zip",
+        "md5": "a17272f658b9dfa2cbaf197fb00c4c61"
+      },
+      "v2.4.0>2.5.0.zh-tw": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-tw_2.4.0_2.5.0_hdiff_bJKPfqpQpaJnsmHc.zip",
+        "md5": "beb4def149897b70cc728728531efce5"
+      },
+      "v2.5.0>2.6.0.zh-cn": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_2.5.0_2.6.0_hdiff_FUPqkFTpgEdmwRbg.7z",
+        "md5": "a5ac586c52a9f8462957dae39e47e2ab"
+      },
+      "v2.5.0>2.6.0.zh-tw": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-tw_2.5.0_2.6.0_hdiff_MutRXGcCGQlntxMH.7z",
+        "md5": "1f98e7fa141e221cb2ffa9c067b4c8d3"
+      },
+      "v2.6.0>2.7.0.zh-cn": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_2.6.0_2.7.0_hdiff_bzmmegLWerxDWyXw.7z",
+        "md5": "3c97ebdf317e775e2501cc0c15c80a22"
+      },
+      "v2.6.0>2.7.0.zh-tw": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-tw_2.6.0_2.7.0_hdiff_KXhAzqapyrNCWFdW.7z",
+        "md5": "9bc39a306d7969fc7530ebb3a26c7424"
+      },
+      "v2.7.0>3.0.0.zh-cn": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_2.7.0_3.0.0_hdiff_xDzLJOjpjdtJjeqf.7z",
+        "md5": "a34b60747ac1c0b7ce0669b3dd406574"
+      },
+      "v2.7.0>3.0.0.zh-tw": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-tw_2.7.0_3.0.0_hdiff_bqgVaWOgJhlKlrDf.7z",
+        "md5": "f83d37368f74df9bdcafb14c3014a1d1"
+      },
+      "v3.0.0>3.1.0.zh-cn": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_3.0.0_3.1.0_hdiff_baldQMUdYiGMiedk.7z",
+        "md5": "bfbf0dc54d0ab387bcc92ab6f57ecedb"
+      },
+      "v3.0.0>3.1.0.zh-tw": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-tw_3.0.0_3.1.0_hdiff_tgNpPimpMkBkaeWo.7z",
+        "md5": "907072ac2b9a6b1d24d2edfe4ef7fe3c"
+      },
+      "v3.1.0>3.2.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_3.1.0_3.2.0_hdiff_sjaSrlUVockkcNwu.7z",
+        "md5": "f8467e59ce4ee9d53ce2a660d16939c8"
+      },
+      "v3.2.0>3.3.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_3.2.0_3.3.0_hdiff_sNxYgqYVKeLrDjCG.7z",
+        "md5": "d3e36078a6690de4a5939a96e14a6aab"
+      },
+      "v3.3.0>3.4.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_3.3.0_3.4.0_hdiff_FkzXudtGBomXeQzH.7z",
+        "md5": "6bb94ee92489b87c5f28b2595c768d23"
+      },
+      "v3.4.0>3.5.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_3.4.0_3.5.0_hdiff_gLTiIDnMNcFZjoXZ.7z",
+        "md5": "66f59225a4e94eb61485411d3b63a69f"
+      },
+      "v3.5.0>3.6.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_3.5.0_3.6.0_hdiff_LZUFHgBgfkvXkXwb.7z",
+        "md5": "b5c7612347a1ec43482473290a3d9b05"
+      },
+      "v3.6.0>3.7.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_3.6.0_3.7.0_hdiff_RfQqkYYHbqepLoKx.7z",
+        "md5": "aaed03ea214e24daf59852e404ee6515"
+      },
+      "v3.7.0>3.8.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_3.7.0_3.8.0_hdiff_ByWIdKvLwxENgFGQ.7z",
+        "md5": "5eb4ab0160b94f14486ecf5c1da48cc2"
+      },
+      "v3.8.0>4.0.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_3.8.0_4.0.0_hdiff_esvgnJxlMLYSOQFq.7z",
+        "md5": "bee6d71499211359e48fdecb92e7bd19"
+      },
+      "v4.0.0>4.1.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_4.0.0_4.1.0_hdiff_GMVwqGUkAWFwpCPI.7z",
+        "md5": "88c4c966838ff5c727ff412fb7e01c30"
+      },
+      "v4.1.0>4.2.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_4.1.0_4.2.0_hdiff_QWreVSHjLHdDWrCZ.7z",
+        "md5": "37545c7d2ced625f375b673b83dc4c03"
+      },
+      "v4.2.0>4.3.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_4.2.0_4.3.0_hdiff_TtQAuafLKLGyCjuI.7z",
+        "md5": "aaf867c0e4b5f4e5d19852818b1d652d"
+      },
+      "v4.3.0>4.4.0": {
         "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_4.3.0_4.4.0_hdiff_ZGnXBQGwfIajFMyB.7z",
         "md5": "2a7d2f14bd9f142a8e346198da921731"
       }
@@ -123,7 +1659,95 @@
   },
   "VoicePackDiff_Korean": {
     "version": {
-      "4.3.0>4.4.0": {
+      "v1.5.0>1.6.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/ko-kr_1.5.0_1.6.0_hdiff_iA6SXJV5KGvdIC2e.zip",
+        "md5": "D25680AFFACB465CC3928174210289A1"
+      },
+      "v1.6.0>2.0.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/ko-kr_1.6.0_2.0.0_hdiff_ap896DJ7mI3XLH1k.zip",
+        "md5": "61F1954D67610E49EBF10DB0C8330B72"
+      },
+      "v2.0.0>2.1.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/ko-kr_2.0.0_2.1.0_hdiff_pzIKMLf3JkQiaUYt.zip",
+        "md5": "BE68AED594138817B54F2CE4BEF25AF3"
+      },
+      "v2.1.0>2.2.0": {
+        "url": "https://autopatchos.starrails.com/client/hkrpg_global/35/ko-kr_2.1.0_2.2.0_hdiff_KT4xD2nY0ec3ZAip.zip",
+        "md5": "B43969A0902AE8724B3CFC819DFA1ACA"
+      },
+      "v2.2.0>2.3.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_2.2.0_2.3.0_hdiff_SuitLwSAzZXXXFLX.zip",
+        "md5": "f56a1ef6ce31eda1a72c730a35007b7d"
+      },
+      "v2.3.0>2.4.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_2.3.0_2.4.0_hdiff_ZnYscnzRRlIuEyRb.zip",
+        "md5": "420454ce248d71f07e023149b33cd138"
+      },
+      "v2.4.0>2.5.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_2.4.0_2.5.0_hdiff_aoQvnFCslqAYEViB.zip",
+        "md5": "c60e3a628894e5fde4ba88322b28b510"
+      },
+      "v2.5.0>2.6.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_2.5.0_2.6.0_hdiff_ForQmvgEETlWdyxc.7z",
+        "md5": "5d232486cff5ef6d42b0dfef4dad4fde"
+      },
+      "v2.6.0>2.7.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_2.6.0_2.7.0_hdiff_OkgmPDtPWMJsnnYD.7z",
+        "md5": "be7555d36b44f90378d2db7c1d43dafa"
+      },
+      "v2.7.0>3.0.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_2.7.0_3.0.0_hdiff_oIbfKWeIfXcaulvL.7z",
+        "md5": "4ea96dbd0af99e6e5c3f9c5526d3798f"
+      },
+      "v3.0.0>3.1.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_3.0.0_3.1.0_hdiff_OFXvoXHAovOnGjiH.7z",
+        "md5": "ab029bd2281429fbf0d6226858c495fb"
+      },
+      "v3.1.0>3.2.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_3.1.0_3.2.0_hdiff_vKohowdSpbhZLFZp.7z",
+        "md5": "710badce219cff87cc0515c353af7410"
+      },
+      "v3.2.0>3.3.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_3.2.0_3.3.0_hdiff_tDaIYfyuseaxtejq.7z",
+        "md5": "2ecf4a5cafdbdb3b6a207268a667157a"
+      },
+      "v3.3.0>3.4.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_3.3.0_3.4.0_hdiff_QnWqpOdNWbjczMnP.7z",
+        "md5": "d635dce82fd73af0d165e5e5656a45d6"
+      },
+      "v3.4.0>3.5.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_3.4.0_3.5.0_hdiff_uMFzfihDMhUoKCen.7z",
+        "md5": "6529aff09e9bd7b3733fd7bbe8b03830"
+      },
+      "v3.5.0>3.6.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_3.5.0_3.6.0_hdiff_EqpaSnWQlPTRNuzO.7z",
+        "md5": "3e37802976902ce66939494d06106638"
+      },
+      "v3.6.0>3.7.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_3.6.0_3.7.0_hdiff_FKvAlnFZvrmmwHUZ.7z",
+        "md5": "3620e3f9d7a82539eb7794d869403809"
+      },
+      "v3.7.0>3.8.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_3.7.0_3.8.0_hdiff_uQlXfkXEEZGtSsZN.7z",
+        "md5": "cb90718d141b39f0928a50e0db7f9ed4"
+      },
+      "v3.8.0>4.0.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_3.8.0_4.0.0_hdiff_hajxmSLqXtkjocDw.7z",
+        "md5": "bb3e9d37f9e863fadcae7ab87c60c23f"
+      },
+      "v4.0.0>4.1.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_4.0.0_4.1.0_hdiff_xkTWPRxpvRIVIFOx.7z",
+        "md5": "b91c6bcbe9cba5fee1cbf0552ca192d1"
+      },
+      "v4.1.0>4.2.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_4.1.0_4.2.0_hdiff_JbWiyybDgKmyXIYX.7z",
+        "md5": "8fd4c15da185f6ecf0f88cd66e8ef6db"
+      },
+      "v4.2.0>4.3.0": {
+        "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_4.2.0_4.3.0_hdiff_lGJVmLchLjkaPGLh.7z",
+        "md5": "2e4bd6b9b3e86cae8e76948b4e3ce7d6"
+      },
+      "v4.3.0>4.4.0": {
         "url": "https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_4.3.0_4.4.0_hdiff_rfiwtWVmGKcLYzPl.7z",
         "md5": "52a513b3398bba412ab6bc75d1fa6011"
       }
