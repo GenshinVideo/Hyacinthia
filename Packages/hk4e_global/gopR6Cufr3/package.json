@@ -1589,7 +1589,15 @@
         "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_5.3.0_5.5.0_hdiff_hLjncNZamXTtcKKo.zip",
         "md5": "9b673560692022ba2147c9557d555e64"
       },
+      "5.3.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_5.3.0_5.5.0_hdiff_hLjncNZamXTtcKKo.zip",
+        "md5": "9b673560692022ba2147c9557d555e64"
+      },
       "v5.4.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_5.4.0_5.5.0_hdiff_IlvHovyEdpXnwiCH.zip",
+        "md5": "351503a9da9d8c657c7c33e544dd48d8"
+      },
+      "5.4.0>5.5.0": {
         "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_5.4.0_5.5.0_hdiff_IlvHovyEdpXnwiCH.zip",
         "md5": "351503a9da9d8c657c7c33e544dd48d8"
       }
@@ -1913,7 +1921,15 @@
         "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ja-jp_5.3.0_5.5.0_hdiff_beYoljTPLiGPgFOz.zip",
         "md5": "28f2866151a4f333bfa27db6a415ca73"
       },
+      "5.3.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ja-jp_5.3.0_5.5.0_hdiff_beYoljTPLiGPgFOz.zip",
+        "md5": "28f2866151a4f333bfa27db6a415ca73"
+      },
       "v5.4.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ja-jp_5.4.0_5.5.0_hdiff_RCsszbNmxZciMvkK.zip",
+        "md5": "471020c4184331a9159b29ed3107804d"
+      },
+      "5.4.0>5.5.0": {
         "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ja-jp_5.4.0_5.5.0_hdiff_RCsszbNmxZciMvkK.zip",
         "md5": "471020c4184331a9159b29ed3107804d"
       }
@@ -2237,7 +2253,15 @@
         "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_en-us_5.3.0_5.5.0_hdiff_hyPqxqduaCinaiJo.zip",
         "md5": "c09ff2a7f45a6fdd58046ea7f16db4a3"
       },
+      "5.3.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_en-us_5.3.0_5.5.0_hdiff_hyPqxqduaCinaiJo.zip",
+        "md5": "c09ff2a7f45a6fdd58046ea7f16db4a3"
+      },
       "v5.4.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_en-us_5.4.0_5.5.0_hdiff_HveRbpmNrNejbGYL.zip",
+        "md5": "9a922acc8f68bbcab55c06847dcbe37f"
+      },
+      "5.4.0>5.5.0": {
         "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_en-us_5.4.0_5.5.0_hdiff_HveRbpmNrNejbGYL.zip",
         "md5": "9a922acc8f68bbcab55c06847dcbe37f"
       }
@@ -2561,7 +2585,15 @@
         "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_zh-cn_5.3.0_5.5.0_hdiff_IjUYCPouJjYnAVzM.zip",
         "md5": "af73c0e343da127b27afb7cee8d5f828"
       },
+      "5.3.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_zh-cn_5.3.0_5.5.0_hdiff_IjUYCPouJjYnAVzM.zip",
+        "md5": "af73c0e343da127b27afb7cee8d5f828"
+      },
       "v5.4.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_zh-cn_5.4.0_5.5.0_hdiff_DuzyGAJXDnTEDcDG.zip",
+        "md5": "20f67f06f746f96cd6176eff9ae2491d"
+      },
+      "5.4.0>5.5.0": {
         "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_zh-cn_5.4.0_5.5.0_hdiff_DuzyGAJXDnTEDcDG.zip",
         "md5": "20f67f06f746f96cd6176eff9ae2491d"
       }
@@ -2885,7 +2917,15 @@
         "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ko-kr_5.3.0_5.5.0_hdiff_IuoBNsASjDzeqgNY.zip",
         "md5": "a62129453431421ddb4fd6d4ee3f9413"
       },
+      "5.3.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ko-kr_5.3.0_5.5.0_hdiff_IuoBNsASjDzeqgNY.zip",
+        "md5": "a62129453431421ddb4fd6d4ee3f9413"
+      },
       "v5.4.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ko-kr_5.4.0_5.5.0_hdiff_gKGHXRscunFdPzdH.zip",
+        "md5": "afca3b2d11fa6068b59821ec0dfa0948"
+      },
+      "5.4.0>5.5.0": {
         "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ko-kr_5.4.0_5.5.0_hdiff_gKGHXRscunFdPzdH.zip",
         "md5": "afca3b2d11fa6068b59821ec0dfa0948"
       }

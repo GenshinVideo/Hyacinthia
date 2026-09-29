@@ -1439,7 +1439,15 @@
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_3.0.0_3.2.0_hdiff_tzXXPwmMhrEpXNNm.zip",
         "md5": "8decfeb5738454e91c5e8dd0ddbae349"
       },
+      "3.0.0>3.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_3.0.0_3.2.0_hdiff_tzXXPwmMhrEpXNNm.zip",
+        "md5": "8decfeb5738454e91c5e8dd0ddbae349"
+      },
       "v3.1.0>3.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_3.1.0_3.2.0_hdiff_lllCrkWvhadMjaTY.zip",
+        "md5": "e937cb7e72b6c90a0d4970fd9baf545f"
+      },
+      "3.1.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_3.1.0_3.2.0_hdiff_lllCrkWvhadMjaTY.zip",
         "md5": "e937cb7e72b6c90a0d4970fd9baf545f"
       }
@@ -1591,7 +1599,15 @@
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_3.0.0_3.2.0_hdiff_RtLsfTkCraLLqmXs.zip",
         "md5": "3c8eec7f86aa360542b40f97ece4b973"
       },
+      "3.0.0>3.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_3.0.0_3.2.0_hdiff_RtLsfTkCraLLqmXs.zip",
+        "md5": "3c8eec7f86aa360542b40f97ece4b973"
+      },
       "v3.1.0>3.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_3.1.0_3.2.0_hdiff_cQuxkDzalUDvwMrA.zip",
+        "md5": "8e41ce2dcd7bea113a4d00a262a88780"
+      },
+      "3.1.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_3.1.0_3.2.0_hdiff_cQuxkDzalUDvwMrA.zip",
         "md5": "8e41ce2dcd7bea113a4d00a262a88780"
       }
@@ -1743,7 +1759,15 @@
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_3.0.0_3.2.0_hdiff_gFpTxSuZnjHMBbCM.zip",
         "md5": "3a3774a3cde20352e2fc0eddb8dc4e80"
       },
+      "3.0.0>3.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_3.0.0_3.2.0_hdiff_gFpTxSuZnjHMBbCM.zip",
+        "md5": "3a3774a3cde20352e2fc0eddb8dc4e80"
+      },
       "v3.1.0>3.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_3.1.0_3.2.0_hdiff_TaspDbfDXZQKGTMT.zip",
+        "md5": "d7cfcc57dd7ecc36758e48a6450f1fa4"
+      },
+      "3.1.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_3.1.0_3.2.0_hdiff_TaspDbfDXZQKGTMT.zip",
         "md5": "d7cfcc57dd7ecc36758e48a6450f1fa4"
       }
@@ -1895,7 +1919,15 @@
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_3.0.0_3.2.0_hdiff_AtmzATLpbForhWCg.zip",
         "md5": "67aaa59671f12dacc603bec9d83e6ec4"
       },
+      "3.0.0>3.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_3.0.0_3.2.0_hdiff_AtmzATLpbForhWCg.zip",
+        "md5": "67aaa59671f12dacc603bec9d83e6ec4"
+      },
       "v3.1.0>3.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_3.1.0_3.2.0_hdiff_rSEADnyqUrvsYiYh.zip",
+        "md5": "cc2c38a76548f68bdc33128d0e48a3f7"
+      },
+      "3.1.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_3.1.0_3.2.0_hdiff_rSEADnyqUrvsYiYh.zip",
         "md5": "cc2c38a76548f68bdc33128d0e48a3f7"
       }
@@ -2047,7 +2079,15 @@
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_3.0.0_3.2.0_hdiff_zCxlzDHQCfwijIqG.zip",
         "md5": "15b4bc2fcd89a4323eea3ce89bd83f7d"
       },
+      "3.0.0>3.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_3.0.0_3.2.0_hdiff_zCxlzDHQCfwijIqG.zip",
+        "md5": "15b4bc2fcd89a4323eea3ce89bd83f7d"
+      },
       "v3.1.0>3.2.0": {
+        "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_3.1.0_3.2.0_hdiff_BkjYEVvJdVqNlzuW.zip",
+        "md5": "e388e481414350a501bd43c607db9477"
+      },
+      "3.1.0>3.2.0": {
         "url": "https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_3.1.0_3.2.0_hdiff_BkjYEVvJdVqNlzuW.zip",
         "md5": "e388e481414350a501bd43c607db9477"
       }
