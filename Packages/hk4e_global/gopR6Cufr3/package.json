@@ -1,0 +1,136 @@
+{
+  "Package": {
+    "version": {
+      "v5.5.0": {
+        "url": "",
+        "md5": "",
+        "Segments": [
+          {
+            "url": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250314110016_HcIQuDGRmsbByeAE/GenshinImpact_5.5.0.zip.001",
+            "md5": "e65a66073f10325a384c4d8f01199e21"
+          },
+          {
+            "url": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250314110016_HcIQuDGRmsbByeAE/GenshinImpact_5.5.0.zip.002",
+            "md5": "e262578cc6791c927a77c2a784da84dd"
+          },
+          {
+            "url": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250314110016_HcIQuDGRmsbByeAE/GenshinImpact_5.5.0.zip.003",
+            "md5": "e9dd5ce69e4ee8025c3e3319da8fb95d"
+          },
+          {
+            "url": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250314110016_HcIQuDGRmsbByeAE/GenshinImpact_5.5.0.zip.004",
+            "md5": "c3431ba39643f99bab5af37f03c81139"
+          },
+          {
+            "url": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250314110016_HcIQuDGRmsbByeAE/GenshinImpact_5.5.0.zip.005",
+            "md5": "57e55567b5292f81e3da26636da3124f"
+          },
+          {
+            "url": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250314110016_HcIQuDGRmsbByeAE/GenshinImpact_5.5.0.zip.006",
+            "md5": "1cbc02e908b8a1ad7d421f23e9fe689a"
+          },
+          {
+            "url": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250314110016_HcIQuDGRmsbByeAE/GenshinImpact_5.5.0.zip.007",
+            "md5": "ba292fa02c2ce8887fbef86ae45f6100"
+          },
+          {
+            "url": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250314110016_HcIQuDGRmsbByeAE/GenshinImpact_5.5.0.zip.008",
+            "md5": "276e433ab28c35748c6deef72d28d3c2"
+          }
+        ]
+      }
+    }
+  },
+  "VoicePack_Japanese": {
+    "version": {
+      "v5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250314110016_HcIQuDGRmsbByeAE/Audio_Japanese_5.5.0.zip",
+        "md5": "21117c63e8a55abe0f9a704528bcdb1c"
+      }
+    }
+  },
+  "VoicePack_English": {
+    "version": {
+      "v5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250314110016_HcIQuDGRmsbByeAE/Audio_English(US)_5.5.0.zip",
+        "md5": "e14821e9236844f1fae27396f30f094a"
+      }
+    }
+  },
+  "VoicePack_Chinese": {
+    "version": {
+      "v5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250314110016_HcIQuDGRmsbByeAE/Audio_Chinese_5.5.0.zip",
+        "md5": "724eb66fac6c39199faecf8117b036a5"
+      }
+    }
+  },
+  "VoicePack_Korean": {
+    "version": {
+      "v5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250314110016_HcIQuDGRmsbByeAE/Audio_Korean_5.5.0.zip",
+        "md5": "c52cd0575dfe126a6604fe2b43650dae"
+      }
+    }
+  },
+  "PackageDiff": {
+    "version": {
+      "5.3.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_5.3.0_5.5.0_hdiff_hLjncNZamXTtcKKo.zip",
+        "md5": "9b673560692022ba2147c9557d555e64"
+      },
+      "5.4.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_5.4.0_5.5.0_hdiff_IlvHovyEdpXnwiCH.zip",
+        "md5": "351503a9da9d8c657c7c33e544dd48d8"
+      }
+    }
+  },
+  "VoicePackDiff_Japanese": {
+    "version": {
+      "5.3.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ja-jp_5.3.0_5.5.0_hdiff_beYoljTPLiGPgFOz.zip",
+        "md5": "28f2866151a4f333bfa27db6a415ca73"
+      },
+      "5.4.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ja-jp_5.4.0_5.5.0_hdiff_RCsszbNmxZciMvkK.zip",
+        "md5": "471020c4184331a9159b29ed3107804d"
+      }
+    }
+  },
+  "VoicePackDiff_English": {
+    "version": {
+      "5.3.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_en-us_5.3.0_5.5.0_hdiff_hyPqxqduaCinaiJo.zip",
+        "md5": "c09ff2a7f45a6fdd58046ea7f16db4a3"
+      },
+      "5.4.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_en-us_5.4.0_5.5.0_hdiff_HveRbpmNrNejbGYL.zip",
+        "md5": "9a922acc8f68bbcab55c06847dcbe37f"
+      }
+    }
+  },
+  "VoicePackDiff_Chinese": {
+    "version": {
+      "5.3.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_zh-cn_5.3.0_5.5.0_hdiff_IjUYCPouJjYnAVzM.zip",
+        "md5": "af73c0e343da127b27afb7cee8d5f828"
+      },
+      "5.4.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_zh-cn_5.4.0_5.5.0_hdiff_DuzyGAJXDnTEDcDG.zip",
+        "md5": "20f67f06f746f96cd6176eff9ae2491d"
+      }
+    }
+  },
+  "VoicePackDiff_Korean": {
+    "version": {
+      "5.3.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ko-kr_5.3.0_5.5.0_hdiff_IuoBNsASjDzeqgNY.zip",
+        "md5": "a62129453431421ddb4fd6d4ee3f9413"
+      },
+      "5.4.0>5.5.0": {
+        "url": "https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ko-kr_5.4.0_5.5.0_hdiff_gKGHXRscunFdPzdH.zip",
+        "md5": "afca3b2d11fa6068b59821ec0dfa0948"
+      }
+    }
+  }
+}
