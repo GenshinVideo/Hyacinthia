@@ -1,0 +1,84 @@
+{
+  "retcode": 0,
+  "message": "OK",
+  "data": {
+    "build_id": "MBR6kljfQoYS",
+    "tag": "9.1.0",
+    "manifests": [
+      {
+        "category_id": "10175",
+        "category_name": "【新】【KR】游戏资源-外网",
+        "manifest": {
+          "id": "manifest_2701167e28b962ed_1ecb213b82d56d1c43a9b7742493fb71",
+          "checksum": "1ecb213b82d56d1c43a9b7742493fb71",
+          "compressed_size": "104732",
+          "uncompressed_size": "207492"
+        },
+        "chunk_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchkr.honkaiimpact3.com/ptpublic/rel/chunk/chunks/ely3gl46n56o/20261014/9.1.0/MBR6kljfQoYS",
+          "url_suffix": ""
+        },
+        "manifest_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchkr.honkaiimpact3.com/ptpublic/rel/chunk/manifests/ely3gl46n56o/20261014/9.1.0/MBR6kljfQoYS",
+          "url_suffix": ""
+        },
+        "matching_field": "game",
+        "stats": {
+          "compressed_size": "870372554",
+          "uncompressed_size": "1394168867",
+          "file_count": "270",
+          "chunk_count": "1287"
+        },
+        "deduplicated_stats": {
+          "compressed_size": "862480488",
+          "uncompressed_size": "1382544667",
+          "file_count": "270",
+          "chunk_count": "1277"
+        }
+      },
+      {
+        "category_id": "10180",
+        "category_name": "【KR】ASB-外网",
+        "manifest": {
+          "id": "manifest_a1f2c811ababcbdc_5fac572b66a2e59bdffe3fbf3641a2ef",
+          "checksum": "5fac572b66a2e59bdffe3fbf3641a2ef",
+          "compressed_size": "2328934",
+          "uncompressed_size": "4337113"
+        },
+        "chunk_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchkr.honkaiimpact3.com/ptpublic/rel/chunk/chunks/ely3gl46n56o/20261014/9.1.0/MBR6kljfQoYS",
+          "url_suffix": ""
+        },
+        "manifest_download": {
+          "encryption": 0,
+          "password": "",
+          "compression": 1,
+          "url_prefix": "https://autopatchkr.honkaiimpact3.com/ptpublic/rel/chunk/manifests/ely3gl46n56o/20261014/9.1.0/MBR6kljfQoYS",
+          "url_suffix": ""
+        },
+        "matching_field": "asb",
+        "stats": {
+          "compressed_size": "31331951766",
+          "uncompressed_size": "34375604776",
+          "file_count": "811",
+          "chunk_count": "29318"
+        },
+        "deduplicated_stats": {
+          "compressed_size": "31310982467",
+          "uncompressed_size": "34354330219",
+          "file_count": "811",
+          "chunk_count": "29297"
+        }
+      }
+    ]
+  }
+}
